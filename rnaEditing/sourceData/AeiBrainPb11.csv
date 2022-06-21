@@ -1,0 +1,2 @@
+StrandDecidingMethod,Group,Sample,SamplePath,A2CEditingIndex,A2GEditingIndex,A2TEditingIndex,C2AEditingIndex,C2GEditingIndex,C2TEditingIndex
+RefSeqThenMMSites,Editing_Index_Unknown,20160711.A-PB-11,/mnt/vol3/BulkRnaSeq/brain/bam/20160711.A-PB-11_HpAligned.sortedByCoord.out.bam,0.0113997345866,0.30863461241,0.0209370881564,0.0224688462312,0.00873776216833,0.0506430876621
