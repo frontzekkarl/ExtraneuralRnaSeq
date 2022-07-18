@@ -1,9 +1,9 @@
-# Analysis of Differential Gene Expression
+## Analysis of Differential Gene Expression in Peripheral Organs of Prion-Inoculated Mice
 
 
 Differentially expressed genes of extra-neural organs and brain from this and our previous publication https://doi.org/10.1371/journal.ppat.1008653, respectively, can be browsed freely via: XXXXXX.
 
-Assessing differential gene expression was described previously here https://doi.org/10.1371/journal.ppat.1008653:
+_Assessing differential gene expression was described previously here https://doi.org/10.1371/journal.ppat.1008653_
 
 Quality control of reads was performed using FastQC. Low-quality ends were clipped (5’: 3 bases; 3’: 10 bases). Trimmed reads were aligned to the reference genome and transcriptome (FASTA and GTF files, respectively, downloaded from the UCSC mm10) with STAR version 2.3.0e_r291 with default settings.
 
