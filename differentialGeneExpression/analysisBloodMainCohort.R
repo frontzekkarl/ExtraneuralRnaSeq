@@ -1,4 +1,3 @@
-setwd("./rawData/mainCohort/blood/")
 library(reshape2)
 library(ggplot2)
 library(gridExtra)
@@ -14,7 +13,7 @@ bl_16 <- read.delim("result--RML6_16--over--NBH_16.txt")
 bl_18 <- read.delim("result--RML6_18--over--NBH_18.txt")
 bl_20 <- read.delim("result--RML6_20--over--NBH_20.txt")
 bl_term <- read.delim("result--RML6_term--over--NBH_term.txt")
-#bl_none <- read.delim("result--none_36wks_---over--none_7wks_-.txt")
+
 
 # test number of DE genes 
 bl_4_summary <- summary(bl_4$fdr<0.05 & abs(bl_4$log2.Ratio)>0.5) 
