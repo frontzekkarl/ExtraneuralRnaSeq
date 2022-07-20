@@ -21,3 +21,8 @@ R Session Info lists packages and versions used for DEG analysis.
 - blood -> bloodAnalysisMainCohort.R 
 - muscle -> muscleAnalysisMainCohort.R
 - spleen -> spleenAnalysisMainCohort.R
+
+
+### Aggregated Analyses
+- publication-style Venn Diagrams from Frontzek, Koderman, Careido et al.
+- longitudinal analysis of all organs + brain from https://doi.org/10.1371/journal.ppat.1008653 on all timepoints
