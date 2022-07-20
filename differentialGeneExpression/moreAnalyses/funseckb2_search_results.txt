@@ -1,0 +1,1819 @@
+A1A547	Mus musculus 	Secreted (curated)	Peptidoglycan recognition protein 3 
+A1E960	Mus musculus 	Secreted (curated)	Odontogenic ameloblast-associated protein 
+A1L0T3	Mus musculus 	Secreted (curated)	Scavenger receptor cysteine-rich domain-containing group B protein 
+A2A5H7	Mus musculus 	Secreted (curated)	Protein WFDC11 
+A2A5I3	Mus musculus 	Secreted (curated)	Peptidase inhibitor R3HDML 
+A2A649	Mus musculus 	Secreted (curated)	Protein Wnt 
+A2AE20	Mus musculus 	Secreted (curated)	Sperm acrosome-associated protein 5 
+A2AED3	Mus musculus 	Secreted (curated)	Fibronectin type III domain-containing protein 7 
+A2AIY3	Mus musculus 	Secreted (curated)	Insulin-like 5, isoform CRA_b 
+A2AJ76	Mus musculus 	Secreted (curated)	Hemicentin-2 
+A2AJB7	Mus musculus 	Secreted (curated)	Epididymal-specific lipocalin-5 
+A2ANF0	Mus musculus 	Secreted (curated)	Proenkephalin-B (Fragment) 
+A2AS86	Mus musculus 	Secreted (curated)	Glucagon (Fragment) 
+A2ATD1	Mus musculus 	Secreted (curated)	Isthmin-1 
+A2AVA0	Mus musculus 	Cytoplasm, Secreted (curated)	Sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1 
+A2AVN2	Mus musculus 	Secreted (curated)	Glycoprotein hormones alpha chain (Fragment) 
+A2AX52	Mus musculus 	Secreted (curated)	Collagen alpha-4(VI) chain 
+A2BGH0	Mus musculus 	Cytoplasm, Secreted (curated)	BPI fold-containing family B member 4 
+A2RT60	Mus musculus 	Secreted (curated)	Serine protease HTRA4 
+A2RTH0	Mus musculus 	Secreted (curated)	Chemokine (C-X-C motif) ligand 1 
+A2RTV8	Mus musculus 	Secreted (curated)	Prorelaxin 1 
+A3KGR0	Mus musculus 	Secreted (curated)	Beta-defensin 
+A3RL32	Mus musculus 	Secreted (curated)	Interferon gamma 
+A4FUP9	Mus musculus 	Secreted (curated)	Glycosyltransferase 1 domain-containing protein 1 
+A6H584	Mus musculus 	Secreted (curated)	Collagen alpha-5(VI) chain 
+A6H6E2	Mus musculus 	Secreted (curated)	Multimerin-2 
+A6H6T1	Mus musculus 	Cytoplasm, Secreted (curated)	Serine protease 40 
+A6X935	Mus musculus 	Secreted (curated)	Inter alpha-trypsin inhibitor, heavy chain 4 
+A7MAW2	Mus musculus 	Secreted (curated)	Rln1 protein (Fragment) 
+A7RDN6	Mus musculus 	Secreted (curated)	Renalase 
+A8R0V4	Mus musculus 	Secreted (curated)	Exocrine gland-secreted peptide 22 
+A9Z1V5	Mus musculus 	Secreted (curated)	von Willebrand factor A domain-containing protein 5B1 
+B1AQJ3	Mus musculus 	Secreted (curated)	Metalloproteinase inhibitor 2 (Fragment) 
+B1AWI6	Mus musculus 	Secreted (curated)	Prostate-associated microseminoprotein 
+B1AYH5	Mus musculus 	Secreted (curated)	Interferon alpha-13 
+B1AYH7	Mus musculus 	Secreted (curated)	Interferon alpha-2 
+B1AYH8	Mus musculus 	Secreted (curated)	Protein Ifnab 
+B1AYH9	Mus musculus 	Secreted (curated)	MCG146419 
+B1AYI0	Mus musculus 	Secreted (curated)	Protein Gm13283 
+B1AYI3	Mus musculus 	Secreted (curated)	Protein Gm13272 
+B1AYI5	Mus musculus 	Secreted (curated)	Protein Gm13276 
+B1AYI8	Mus musculus 	Secreted (curated)	Protein Gm13275 
+B1AZQ0	Mus musculus 	Secreted (curated)	Proenkephalin-A (Fragment) 
+B2RPV6	Mus musculus 	Secreted (curated)	Multimerin-1 
+B2RTN6	Mus musculus 	Secreted (curated)	Glycoprotein hormone beta 5 
+B2RUI7	Mus musculus 	Secreted (curated)	Adamts17 protein 
+B2RWX2	Mus musculus 	Secreted (curated)	Complement component 4B (Childo blood group) 
+B2RX05	Mus musculus 	Secreted (curated)	Slit2 protein 
+B2RX06	Mus musculus 	Secreted (curated)	Slit homolog 3 (Drosophila) 
+B2RXW7	Mus musculus 	Secreted (curated)	Complement component 4B (Childo blood group) 
+B2RY83	Mus musculus 	Secreted (curated)	Inactive heparanase-2 
+B3GLJ3	Mus musculus 	Secreted (curated)	Prostate and testis expressed protein 3 
+B5X0G2	Mus musculus 	Secreted (curated)	Major urinary protein 17 
+B7ZMX9	Mus musculus 	Secreted (curated)	Pnoc protein 
+B7ZNW9	Mus musculus 	Secreted (curated)	Slit2 protein 
+B7ZWD4	Mus musculus 	Secreted (curated)	Spink6 protein 
+B9EHM9	Mus musculus 	Secreted (curated)	Prolactin family 2, subfamily b, member 1 
+B9EIU2	Mus musculus 	Secreted (curated)	C4a protein 
+B9EJQ7	Mus musculus 	Secreted (curated)	Spink6 protein 
+B9EKR1	Mus musculus 	Secreted (curated)	Receptor-type tyrosine-protein phosphatase zeta 
+C4NUL9	Mus musculus 	Secreted (curated)	Interferon gamma 
+C4NUM1	Mus musculus 	Secreted (curated)	Interferon gamma 
+D0EY27	Mus musculus 	Secreted (curated)	Insulin-2 (Fragment) 
+D3YTW9	Mus musculus 	Secreted (curated)	Protein Wnt 
+D3YUE2	Mus musculus 	Secreted (curated)	Procollagen C-endopeptidase enhancer 1 
+D3YUQ0	Mus musculus 	Secreted (curated)	Disintegrin and metalloproteinase domain-containing protein 22 
+D3YW23	Mus musculus 	Secreted (curated)	C-X-C motif chemokine 10 
+D3YWU5	Mus musculus 	Secreted (curated)	Insulin-2 (Fragment) 
+D3YXK1	Mus musculus 	Cytoplasm, Secreted (curated)	Atherin 
+D3YYK2	Mus musculus 	Secreted (curated)	Beta-defensin 
+D3Z1Q2	Mus musculus 	Cytoplasm, ER (membrane), Secreted (curated)	Melanocortin-2 receptor aCCessory protein 2 
+D3Z4N4	Mus musculus 	Secreted (curated)	Insulin-like growth factor II (Fragment) 
+D3Z595	Mus musculus 	Secreted (curated)	Insulin-2 
+D3Z596	Mus musculus 	Secreted (curated)	Insulin-2 
+D3Z5L9	Mus musculus 	Secreted (curated)	WNT1-inducible-signaling pathway protein 3 
+D3Z690	Mus musculus 	Secreted (curated)	Izumo sperm-egg fusion protein 4 
+D3Z7M4	Mus musculus 	Secreted (curated)	Insulin-like growth factor I (Fragment) 
+D6RI90	Mus musculus 	Secreted (curated)	A disintegrin and metalloproteinase with thrombospondin motifs 7 
+D6RIJ9	Mus musculus 	Secreted (curated)	Protein Wnt 
+E0CXG7	Mus musculus 	Secreted (curated)	RIKEN cDNA A230091H23, isoform CRA_a 
+E0CXX7	Mus musculus 	Secreted (curated)	Insulin-2 
+E1U8D0	Mus musculus 	Secreted (curated)	Protein SOGA1 
+E9M0G2	Mus musculus 	Secreted (curated)	Leptin 
+E9PU89	Mus musculus 	Secreted (curated)	Insulin-like growth factor I 
+E9PVI8	Mus musculus 	Secreted (curated)	Protein Wnt 
+E9PYF2	Mus musculus 	Secreted (curated)	Disintegrin and metalloproteinase domain-containing protein 10 
+E9Q138	Mus musculus 	Secreted (curated)	Insulin-like growth factor I 
+E9Q327	Mus musculus 	Secreted (curated)	Apolipoprotein E (Fragment) 
+E9Q414	Mus musculus 	Cytoplasm, Secreted (curated)	Apolipoprotein B-100 
+E9Q4F3	Mus musculus 	Secreted (curated)	Thyrotropin subunit beta 
+E9Q5E3	Mus musculus 	Secreted (curated)	Protein Wnt 
+E9Q692	Mus musculus 	Secreted (curated)	Protein Wnt (Fragment) 
+E9QA28	Mus musculus 	Secreted (curated)	Carcinoembryonic antigen-related cell adhesion molecule 16 
+E9QLW5	Mus musculus 	Secreted (curated)	Insulin-like growth factor II 
+F2Z418	Mus musculus 	Secreted (curated)	Protein Prl2c5 
+F6ULY1	Mus musculus 	Secreted (curated)	WAP four-disulfide core domain protein 6B 
+F7A4A7	Mus musculus 	Secreted (curated)	Otogelin-like protein 
+G3UWN5	Mus musculus 	Secreted (curated)	Apolipoprotein E (Fragment) 
+G3UWP9	Mus musculus 	Secreted (curated)	Disintegrin and metalloproteinase domain-containing protein 18 
+G3UXV6	Mus musculus 	Secreted (curated)	Slit homolog 2 protein 
+G3UY21	Mus musculus 	Secreted (curated)	Slit homolog 2 protein 
+G3UYX7	Mus musculus 	Secreted (curated)	Slit homolog 2 protein 
+G3UZ88	Mus musculus 	Secreted (curated)	Slit homolog 2 protein 
+G3UZM8	Mus musculus 	Secreted (curated)	Apolipoprotein E (Fragment) 
+G3X9G6	Mus musculus 	Secreted (curated)	Luteinizing hormone beta 
+H3BJ29	Mus musculus 	Secreted (curated)	Protein Wnt 
+H3BK86	Mus musculus 	Secreted (curated)	Peptide YY 
+H3BL02	Mus musculus 	Secreted (curated)	Protein Wnt (Fragment) 
+J3JRU4	Mus musculus 	Secreted (curated)	Alpha-1-acid glycoprotein 
+J3JS28	Mus musculus 	Secreted (curated)	Protein Wnt 
+J3QJZ9	Mus musculus 	Secreted (curated)	Insulin-like growth factor II (Fragment) 
+J3S6Y1	Mus musculus 	Secreted (curated)	Thrombospondin-type laminin G domain and EAR repeat-containing protein 
+K4HPC4	Mus musculus 	Secreted (curated)	Growth and differentiation factor-associated serum protein 1 
+K4HPC7	Mus musculus 	Secreted (curated)	Growth and differentiation factor-associated serum protein 2 (Fragment) 
+M0QWR7	Mus musculus 	Secreted (curated)	C-X-C motif chemokine 11 
+O08523	Mus musculus 	Secreted (curated)	Alpha-tectorin 
+O08524	Mus musculus 	Secreted (curated)	Beta-tectorin 
+O08538	Mus musculus 	Secreted (curated)	Angiopoietin-1 
+O08540	Mus musculus 	Secreted (curated)	Beta-microseminoprotein 
+O08573	Mus musculus 	Cytoplasm, Secreted (curated)	Galectin-9 
+O08644	Mus musculus 	Secreted (curated)	Ephrin type-B receptor 6 
+O08665	Mus musculus 	Secreted (curated)	Semaphorin-3A 
+O08677	Mus musculus 	Secreted (curated)	Kininogen-1 
+O08689	Mus musculus 	Secreted (curated)	Growth/differentiation factor 8 
+O08710	Mus musculus 	Secreted (curated)	Thyroglobulin 
+O08712	Mus musculus 	Secreted (curated)	Tumor necrosis factor receptor superfamily member 11B 
+O08717	Mus musculus 	Secreted (curated)	Inhibin beta E chain 
+O08746	Mus musculus 	Secreted (curated)	Matrilin-2 
+O08762	Mus musculus 	Secreted (curated)	Neurotrypsin 
+O08807	Mus musculus 	Cytoplasm, Secreted (curated)	Peroxiredoxin-4 
+O08855	Mus musculus 	Secreted (curated)	Apolipoprotein A-I 
+O08912	Mus musculus 	Secreted (curated)	Polypeptide N-acetylgalactosaminyltransferase 1 
+O08970	Mus musculus 	Secreted (curated)	Tuftelin 
+O08976	Mus musculus 	Secreted (curated)	Probasin 
+O08999	Mus musculus 	Secreted (curated)	Latent-transforming growth factor beta-binding protein 2 
+O09037	Mus musculus 	Secreted (curated)	Regenerating islet-derived protein 3-alpha 
+O09042	Mus musculus 	Secreted (curated)	Apolipoprotein A-I 
+O09043	Mus musculus 	Secreted (curated)	Napsin-A 
+O09049	Mus musculus 	Cytoplasm, Secreted (curated)	Regenerating islet-derived protein 3-gamma 
+O09051	Mus musculus 	Secreted (curated)	Guanylate cyclase activator 2B 
+O09107	Mus musculus 	Secreted (curated)	Insulin-like 3 
+O09108	Mus musculus 	Secreted (curated)	Lutropin subunit beta 
+O09114	Mus musculus 	Cytoplasm, ER (membrane), Golgi apparatus (membrane), Nucleus (membrane), Secreted (curated)	Prostaglandin-H2 D-isomerase 
+O09118	Mus musculus 	Secreted (curated)	Netrin-1 
+O09133	Mus musculus 	Secreted (curated)	Submaxillary gland androgen-regulated protein 2, isoform alpha 
+O09164	Mus musculus 	Secreted (curated)	Extracellular superoxide dismutase [Cu-Zn] 
+O35082	Mus musculus 	Secreted (curated)	Klotho 
+O35103	Mus musculus 	Secreted (curated)	Osteomodulin 
+O35181	Mus musculus 	Secreted (curated)	Pro-neuregulin-3, membrane-bound isoform 
+O35188	Mus musculus 	Secreted (curated)	Fractalkine 
+O35206	Mus musculus 	Secreted (curated)	Collagen alpha-1(XV) chain 
+O35228	Mus musculus 	Secreted (curated)	Interleukin-27 subunit beta 
+O35235	Mus musculus 	Secreted (curated)	Tumor necrosis factor ligand superfamily member 11 
+O35256	Mus musculus 	Secreted (curated)	Prolactin-4A1 
+O35257	Mus musculus 	Secreted (curated)	Prolactin-6A1 
+O35298	Mus musculus 	Secreted (curated)	Acyloxyacyl hydrolase 
+O35333	Mus musculus 	Secreted (curated)	Prolactin-like protein F (Precursor) 
+O35367	Mus musculus 	Secreted (curated)	Keratocan 
+O35417	Mus musculus 	Secreted (curated)	Proenkephalin-B 
+O35468	Mus musculus 	Secreted (curated)	Protein Wnt-9b 
+O35474	Mus musculus 	Secreted (curated)	EGF-like repeat and discoidin I-like domain-containing protein 3 
+O35536	Mus musculus 	Secreted (curated)	Tissue factor pathway inhibitor 2 
+O35565	Mus musculus 	Secreted (curated)	Fibroblast growth factor 10 
+O35608	Mus musculus 	Secreted (curated)	Angiopoietin-2 
+O35622	Mus musculus 	Secreted (curated)	Fibroblast growth factor 15 
+O35658	Mus musculus 	Cytoplasm, Mitochondria (membrane), Nucleus (membrane), Secreted (curated)	Complement component 1 Q subcomponent-binding protein, mitochondrial 
+O35664	Mus musculus 	Secreted (curated)	Interferon alpha/beta receptor 2 
+O35679	Mus musculus 	Secreted (curated)	Serine protease inhibitor Kazal-type 4 
+O35684	Mus musculus 	Secreted (curated)	Neuroserpin 
+O35701	Mus musculus 	Secreted (curated)	Matrilin-3 
+O35714	Mus musculus 	Secreted (curated)	Tumor necrosis factor receptor superfamily member 18 
+O35744	Mus musculus 	Secreted (curated)	Chitinase-3-like protein 3 
+O35852	Mus musculus 	Secreted (curated)	Preprodynorphin (Fragment) 
+O35887	Mus musculus 	ER, Secreted (curated)	Calumenin 
+O35903	Mus musculus 	Secreted (curated)	C-C motif chemokine 25 
+O35961	Mus musculus 	Secreted (curated)	Submaxillary gland androgen-regulated protein 2, isoform epsilon 
+O35979	Mus musculus 	Secreted (curated)	Submaxillary gland androgen-regulated protein 2, isoform delta 
+O35982	Mus musculus 	Secreted (curated)	Submaxillary gland androgen-regulated protein 2, isoform beta 
+O35985	Mus musculus 	Secreted (curated)	Submaxillary gland androgen-regulated protein 2, isoform gamma 
+O35988	Mus musculus 	Secreted (curated)	Syndecan-4 
+O54693	Mus musculus 	Secreted (curated)	Ectodysplasin-A 
+O54732	Mus musculus 	Secreted (curated)	Matrix metalloproteinase-15 
+O54775	Mus musculus 	Secreted (curated)	WNT1-inducible-signaling pathway protein 1 
+O54782	Mus musculus 	Secreted (curated)	Epididymis-specific alpha-mannosidase 
+O54819	Mus musculus 	Secreted (curated)	Tissue factor pathway inhibitor 
+O54830	Mus musculus 	Secreted (curated)	Prolactin-7A1 
+O54831	Mus musculus 	Secreted (curated)	Prolactin-7A2 
+O54907	Mus musculus 	Secreted (curated)	Tumor necrosis factor ligand superfamily member 12 
+O54908	Mus musculus 	Secreted (curated)	Dickkopf-related protein 1 
+O54974	Mus musculus 	Cytoplasm, Nucleus, Secreted (curated)	Galectin-7 
+O54990	Mus musculus 	Secreted (curated)	Prominin-1 
+O55038	Mus musculus 	Secreted (curated)	C-X-C motif chemokine 13 
+O55086	Mus musculus 	Secreted (curated)	Brain natriuretic peptide 
+O55123	Mus musculus 	Secreted (curated)	Stromelysin-2 
+O55183	Mus musculus 	Secreted (curated)	Stanniocalcin-1 
+O55188	Mus musculus 	Cytoplasm, Nucleus, Secreted (curated)	Dentin matrix acidic phosphoprotein 1 
+O55189	Mus musculus 	Secreted (curated)	Ameloblastin 
+O55196	Mus musculus 	Secreted (curated)	Enamelin 
+O55225	Mus musculus 	Secreted (curated)	Otogelin 
+O55226	Mus musculus 	Secreted (curated)	Chondroadherin 
+O55233	Mus musculus 	Secreted (curated)	Cerberus 
+O70138	Mus musculus 	Cytoplasm, Secreted (curated)	Neutrophil collagenase 
+O70165	Mus musculus 	Secreted (curated)	Ficolin-1 
+O70169	Mus musculus 	Cytoplasm, Secreted (curated)	Inactive serine protease 39 
+O70176	Mus musculus 	Secreted (curated)	Pituitary adenylate cyclase-activating polypeptide 
+O70283	Mus musculus 	Secreted (curated)	Protein Wnt-2b 
+O70300	Mus musculus 	Secreted (curated)	Persephin 
+O70326	Mus musculus 	Secreted (curated)	Gremlin-1 
+O70340	Mus musculus 	Secreted (curated)	Neuronal pentraxin-2 
+O70354	Mus musculus 	Secreted (curated)	Carbonic anhydrase-related protein 11 
+O70362	Mus musculus 	Secreted (curated)	Phosphatidylinositol-glycan-specific phospholipase D 
+O70456	Mus musculus 	Cytoplasm, Nucleus, Secreted (curated)	14-3-3 protein sigma 
+O70460	Mus musculus 	Secreted (curated)	C-C motif chemokine 19 
+O70497	Mus musculus 	Secreted (curated)	Ficolin-2 
+O70514	Mus musculus 	Plasma membrane, Secreted (curated)	Fibroblast growth factor-binding protein 1 
+O70570	Mus musculus 	Secreted (curated)	Polymeric immunoglobulin receptor 
+O70624	Mus musculus 	ER, Secreted (curated)	Myocilin 
+O88174	Mus musculus 	Secreted (curated)	Membrane cofactor protein 
+O88188	Mus musculus 	Secreted (curated)	Lymphocyte antigen 86 
+O88200	Mus musculus 	Cytoplasm, Secreted (curated)	C-type lectin domain family 11 member A 
+O88207	Mus musculus 	Secreted (curated)	Collagen alpha-1(V) chain 
+O88273	Mus musculus 	Secreted (curated)	Gremlin-2 
+O88305	Mus musculus 	Secreted (curated)	Sex-limited protein (Fragment) 
+O88307	Mus musculus 	Golgi apparatus (membrane), Secreted (curated)	Sortilin-related receptor 
+O88310	Mus musculus 	Secreted (curated)	Intelectin-1a 
+O88312	Mus musculus 	ER, Secreted (curated)	Anterior gradient protein 2 homolog 
+O88322	Mus musculus 	Secreted (curated)	Nidogen-2 
+O88393	Mus musculus 	Secreted (curated)	Transforming growth factor beta receptor type 3 
+O88413	Mus musculus 	Cytoplasm, Nucleus (membrane), Plasma membrane, Secreted (curated)	Tubby-related protein 3 
+O88430	Mus musculus 	Secreted (curated)	C-C motif chemokine 22 
+O88452	Mus musculus 	Secreted (curated)	Stanniocalcin-2 
+O88587	Mus musculus 	Secreted (curated)	Catechol O-methyltransferase 
+O88593	Mus musculus 	Cytoplasm, Secreted (curated)	Peptidoglycan recognition protein 1 
+O88632	Mus musculus 	Secreted (curated)	Semaphorin-3F 
+O88668	Mus musculus 	Secreted (curated)	Protein CREG1 
+O88676	Mus musculus 	ER (membrane), Secreted (curated)	Matrix metalloproteinase-23 
+O88745	Mus musculus 	Secreted (curated)	Scrapie-responsive protein 1 
+O88783	Mus musculus 	Secreted (curated)	Coagulation factor V 
+O88786	Mus musculus 	Secreted (curated)	Interleukin-13 receptor subunit alpha-2 
+O88803	Mus musculus 	Secreted (curated)	Leukocyte cell-derived chemotaxin-2 
+O88947	Mus musculus 	Secreted (curated)	Coagulation factor X 
+O88968	Mus musculus 	Secreted (curated)	Transcobalamin-2 
+O88992	Mus musculus 	Secreted (curated)	C1q-related factor 
+O88998	Mus musculus 	Secreted (curated)	Noelin 
+O89020	Mus musculus 	Secreted (curated)	Afamin 
+O89029	Mus musculus 	Secreted (curated)	Matrilin-4 
+O89051	Mus musculus 	Secreted (curated)	Integral membrane protein 2B 
+O89093	Mus musculus 	Secreted (curated)	C-C motif chemokine 20 
+O89098	Mus musculus 	Secreted (curated)	Cystatin-F 
+O89101	Mus musculus 	Secreted (curated)	Fibroblast growth factor 18 
+P00683	Mus musculus 	Secreted (curated)	Ribonuclease pancreatic 
+P00687	Mus musculus 	Secreted (curated)	Alpha-amylase 1 
+P00688	Mus musculus 	Secreted (curated)	Pancreatic alpha-amylase 
+P00796	Mus musculus 	Secreted (curated)	Renin-2 
+P01027	Mus musculus 	Secreted (curated)	Complement C3 
+P01029	Mus musculus 	Secreted (curated)	Complement C4-B 
+P01139	Mus musculus 	Secreted (curated)	Beta-nerve growth factor 
+P01173	Mus musculus 	Secreted (curated)	Whey acidic protein 
+P01193	Mus musculus 	Secreted (curated)	Pro-opiomelanocortin 
+P01216	Mus musculus 	Secreted (curated)	Glycoprotein hormones alpha chain 
+P01325	Mus musculus 	Secreted (curated)	Insulin-1 
+P01326	Mus musculus 	Secreted (curated)	Insulin-2 
+P01572	Mus musculus 	Secreted (curated)	Interferon alpha-1 
+P01573	Mus musculus 	Secreted (curated)	Interferon alpha-2 
+P01575	Mus musculus 	Secreted (curated)	Interferon beta 
+P01580	Mus musculus 	Secreted (curated)	Interferon gamma 
+P01582	Mus musculus 	Secreted (curated)	Interleukin-1 alpha 
+P01586	Mus musculus 	Secreted (curated)	Interleukin-3 
+P01587	Mus musculus 	Secreted (curated)	Granulocyte-macrophage colony-stimulating factor 
+P01592	Mus musculus 	Secreted (curated)	Immunoglobulin J chain 
+P01864	Mus musculus 	Secreted (curated)	Ig gamma-2A chain C region secreted form 
+P01867	Mus musculus 	Secreted (curated)	Ig gamma-2B chain C region 
+P01868	Mus musculus 	Secreted (curated)	Ig gamma-1 chain C region secreted form 
+P01881	Mus musculus 	Secreted (curated)	Ig delta chain C region secreted form 
+P01887	Mus musculus 	Secreted (curated)	Beta-2-microglobulin 
+P02463	Mus musculus 	Secreted (curated)	Collagen alpha-1(IV) chain 
+P02468	Mus musculus 	Secreted (curated)	Laminin subunit gamma-1 
+P02469	Mus musculus 	Secreted (curated)	Laminin subunit beta-1 
+P02664	Mus musculus 	Secreted (curated)	Alpha-S2-casein-like B 
+P02762	Mus musculus 	Secreted (curated)	Major urinary protein 6 
+P02772	Mus musculus 	Secreted (curated)	Alpha-fetoprotein 
+P02815	Mus musculus 	Secreted (curated)	16.5 kDa submandibular gland glycoprotein 
+P02816	Mus musculus 	Secreted (curated)	Prolactin-inducible protein homolog 
+P03953	Mus musculus 	Secreted (curated)	Complement factor D 
+P03958	Mus musculus 	Cytoplasm, Secreted (curated)	Adenosine deaminase 
+P03987	Mus musculus 	Secreted (curated)	Ig gamma-3 chain C region 
+P04095	Mus musculus 	ER, Secreted (curated)	Prolactin-2C2 
+P04186	Mus musculus 	Secreted (curated)	Complement factor B 
+P04202	Mus musculus 	Secreted (curated)	Transforming growth factor beta-1 
+P04351	Mus musculus 	Secreted (curated)	Interleukin-2 
+P04401	Mus musculus 	Secreted (curated)	Interleukin-5 
+P04426	Mus musculus 	Secreted (curated)	Proto-oncogene Wnt-1 
+P04768	Mus musculus 	ER, Secreted (curated)	Prolactin-2C3 
+P04769	Mus musculus 	Secreted (curated)	Prolactin-7D1 
+P04918	Mus musculus 	Secreted (curated)	Serum amyloid A-3 protein 
+P04938	Mus musculus 	Secreted (curated)	Major urinary proteins 11 and 8 (Fragment) 
+P04939	Mus musculus 	Secreted (curated)	Major urinary protein 3 
+P05017	Mus musculus 	Secreted (curated)	Insulin-like growth factor I 
+P05125	Mus musculus 	Secreted (curated)	Natriuretic peptides A 
+P05142	Mus musculus 	Secreted (curated)	Proline-rich protein HaeIII subfamily 1 
+P05143	Mus musculus 	Secreted (curated)	Proline-rich protein 2 
+P05208	Mus musculus 	Secreted (curated)	Chymotrypsin-like elastase family member 2A 
+P05366	Mus musculus 	Secreted (curated)	Serum amyloid A-1 protein 
+P05367	Mus musculus 	Secreted (curated)	Serum amyloid A-2 protein 
+P06281	Mus musculus 	Secreted (curated)	Renin-1 
+P06683	Mus musculus 	Secreted (curated)	Complement component C9 
+P06684	Mus musculus 	Secreted (curated)	Complement C5 
+P06728	Mus musculus 	Secreted (curated)	Apolipoprotein A-IV 
+P06745	Mus musculus 	Cytoplasm, Secreted (curated)	Glucose-6-phosphate isomerase 
+P06796	Mus musculus 	Secreted (curated)	Kappa-casein 
+P06799	Mus musculus 	Secreted (curated)	Interferon alpha-7 
+P06802	Mus musculus 	Cytoplasm, Secreted (curated)	Ectonucleotide pyrophosphatase/phosphodiesterase family member 1 
+P06804	Mus musculus 	Secreted (curated)	Tumor necrosis factor 
+P06869	Mus musculus 	Secreted (curated)	Urokinase-type plasminogen activator 
+P06879	Mus musculus 	Secreted (curated)	Prolactin 
+P06880	Mus musculus 	Secreted (curated)	Somatotropin 
+P06909	Mus musculus 	Secreted (curated)	Complement factor H 
+P07141	Mus musculus 	Secreted (curated)	Macrophage colony-stimulating factor 1 
+P07146	Mus musculus 	Secreted (curated)	Anionic trypsin-2 
+P07214	Mus musculus 	Secreted (curated)	SPARC 
+P07309	Mus musculus 	Secreted (curated)	Transthyretin 
+P07321	Mus musculus 	Secreted (curated)	Erythropoietin 
+P07349	Mus musculus 	Secreted (curated)	Interferon alpha-5 
+P07350	Mus musculus 	Secreted (curated)	Interferon alpha-6 
+P07351	Mus musculus 	Secreted (curated)	Interferon alpha-4 
+P07356	Mus musculus 	Plasma membrane, Secreted (curated)	Annexin A2 
+P07361	Mus musculus 	Secreted (curated)	Alpha-1-acid glycoprotein 2 
+P07724	Mus musculus 	Secreted (curated)	Serum albumin 
+P07743	Mus musculus 	Secreted (curated)	BPI fold-containing family A member 2 
+P07750	Mus musculus 	Secreted (curated)	Interleukin-4 
+P07758	Mus musculus 	Secreted (curated)	Alpha-1-antitrypsin 1-1 
+P07759	Mus musculus 	Secreted (curated)	Serine protease inhibitor A3K 
+P08071	Mus musculus 	Cytoplasm, Secreted (curated)	Lactotransferrin 
+P08101	Mus musculus 	Secreted (curated)	Low affinity immunoglobulin gamma Fc region receptor II 
+P08121	Mus musculus 	Secreted (curated)	Collagen alpha-1(III) chain 
+P08122	Mus musculus 	Secreted (curated)	Collagen alpha-2(IV) chain 
+P08226	Mus musculus 	Secreted (curated)	Apolipoprotein E 
+P08505	Mus musculus 	Secreted (curated)	Interleukin-6 
+P08607	Mus musculus 	Secreted (curated)	C4b-binding protein 
+P08905	Mus musculus 	Secreted (curated)	Lysozyme C-2 
+P09036	Mus musculus 	Secreted (curated)	Serine protease inhibitor Kazal-type 3 
+P09056	Mus musculus 	Secreted (curated)	Leukemia inhibitory factor 
+P09103	Mus musculus 	ER (membrane), Plasma membrane, Secreted (curated)	Protein disulfide-isomerase 
+P09225	Mus musculus 	Secreted (curated)	Lymphotoxin-alpha 
+P09235	Mus musculus 	Secreted (curated)	Interferon alpha-9 
+P09240	Mus musculus 	Secreted (curated)	Cholecystokinin 
+P09535	Mus musculus 	Secreted (curated)	Insulin-like growth factor II 
+P09586	Mus musculus 	Secreted (curated)	Prolactin-3B1 
+P09813	Mus musculus 	Secreted (curated)	Apolipoprotein A-II 
+P09920	Mus musculus 	Secreted (curated)	Granulocyte colony-stimulating factor 
+P0C0P8	Mus musculus 	Secreted (curated)	Neuropeptide S 
+P0C7W3	Mus musculus 	Secreted (curated)	Prosalusin 
+P10148	Mus musculus 	Secreted (curated)	C-C motif chemokine 2 
+P10168	Mus musculus 	Secreted (curated)	Interleukin-7 
+P10493	Mus musculus 	Secreted (curated)	Nidogen-1 
+P10598	Mus musculus 	Secreted (curated)	Beta-casein 
+P10601	Mus musculus 	Secreted (curated)	Pancreatic prohormone 
+P10605	Mus musculus 	Lysosome, Secreted (curated)	Cathepsin B 
+P10639	Mus musculus 	Cytoplasm, Nucleus, Secreted (curated)	Thioredoxin 
+P10749	Mus musculus 	Secreted (curated)	Interleukin-1 beta 
+P10820	Mus musculus 	Cytoplasm, Secreted (curated)	Perforin-1 
+P10855	Mus musculus 	Secreted (curated)	C-C motif chemokine 3 
+P10889	Mus musculus 	Secreted (curated)	C-X-C motif chemokine 2 
+P10923	Mus musculus 	Secreted (curated)	Osteopontin 
+P11032	Mus musculus 	Cytoplasm, Secreted (curated)	Granzyme A 
+P11034	Mus musculus 	Cytoplasm, Secreted (curated)	Mast cell protease 1 
+P11087	Mus musculus 	Secreted (curated)	Collagen alpha-1(I) chain 
+P11152	Mus musculus 	Plasma membrane, Secreted (curated)	Lipoprotein lipase 
+P11214	Mus musculus 	Secreted (curated)	Tissue-type plasminogen activator 
+P11276	Mus musculus 	Secreted (curated)	Fibronectin 
+P11403	Mus musculus 	Secreted (curated)	Fibroblast growth factor 4 
+P11477	Mus musculus 	Secreted (curated)	Alpha-defensin 1 
+P11588	Mus musculus 	Secreted (curated)	Major urinary protein 1 
+P11589	Mus musculus 	Secreted (curated)	Major urinary protein 2 
+P11590	Mus musculus 	Secreted (curated)	Major urinary protein 4 
+P11591	Mus musculus 	Secreted (curated)	Major urinary protein 5 
+P11672	Mus musculus 	Secreted (curated)	Neutrophil gelatinase-associated lipocalin 
+P11680	Mus musculus 	Secreted (curated)	Properdin 
+P11859	Mus musculus 	Secreted (curated)	Angiotensinogen 
+P12023	Mus musculus 	Cytoplasm, ER (membrane), Golgi apparatus (membrane), Lysosome (membrane), Nucleus (membrane), Secreted (curated)	Amyloid beta A4 protein 
+P12025	Mus musculus 	Secreted (curated)	Midkine 
+P12032	Mus musculus 	Secreted (curated)	Metalloproteinase inhibitor 1 
+P12246	Mus musculus 	Secreted (curated)	Serum amyloid P-component 
+P12388	Mus musculus 	Cytoplasm, Secreted (curated)	Plasminogen activator inhibitor 2, macrophage 
+P12399	Mus musculus 	Secreted (curated)	Protein CTLA-2-alpha 
+P12656	Mus musculus 	Secreted (curated)	Thyrotropin subunit beta 
+P12804	Mus musculus 	Secreted (curated)	Fibroleukin 
+P12850	Mus musculus 	Secreted (curated)	Growth-regulated alpha protein 
+P12961	Mus musculus 	Secreted (curated)	Neuroendocrine protein 7B2 
+P12968	Mus musculus 	Secreted (curated)	Islet amyloid polypeptide 
+P13020	Mus musculus 	Secreted (curated)	Gelsolin 
+P13438	Mus musculus 	Secreted (curated)	Trophoblast-specific protein alpha 
+P13504	Mus musculus 	Secreted (curated)	Interleukin-1 receptor type 1 
+P13562	Mus musculus 	Secreted (curated)	Progonadoliberin-1 
+P13609	Mus musculus 	Cytoplasm, Golgi apparatus, Secreted (curated)	Serglycin 
+P14097	Mus musculus 	Secreted (curated)	C-C motif chemokine 4 
+P14106	Mus musculus 	Secreted (curated)	Complement C1q subcomponent subunit B 
+P14206	Mus musculus 	Cytoplasm, Nucleus (membrane), Plasma membrane, Secreted (curated)	40S ribosomal protein SA 
+P14719	Mus musculus 	Secreted (curated)	Interleukin-1 receptor-like 1 
+P14753	Mus musculus 	Secreted (curated)	Erythropoietin receptor 
+P14847	Mus musculus 	Secreted (curated)	C-reactive protein 
+P15247	Mus musculus 	Secreted (curated)	Interleukin-9 
+P15535	Mus musculus 	Secreted (curated)	Beta-1,4-galactosyltransferase 1 
+P15655	Mus musculus 	Cytoplasm, ER (membrane), Golgi apparatus (membrane), Nucleus (membrane), Plasma membrane, Secreted (curated)	Fibroblast growth factor 2 
+P15656	Mus musculus 	Secreted (curated)	Fibroblast growth factor 5 
+P16014	Mus musculus 	Secreted (curated)	Secretogranin-1 
+P16043	Mus musculus 	Secreted (curated)	Somatoliberin 
+P16045	Mus musculus 	Secreted (curated)	Galectin-1 
+P16110	Mus musculus 	Cytoplasm, Nucleus, Secreted (curated)	Galectin-3 
+P16294	Mus musculus 	Secreted (curated)	Coagulation factor IX 
+P16301	Mus musculus 	Secreted (curated)	Phosphatidylcholine-sterol acyltransferase 
+P16382	Mus musculus 	Secreted (curated)	Interleukin-4 receptor subunit alpha 
+P16563	Mus musculus 	Secreted (curated)	Cysteine-rich secretory protein 2 
+P16882	Mus musculus 	Secreted (curated)	Growth hormone receptor 
+P17125	Mus musculus 	Secreted (curated)	Transforming growth factor beta-3 
+P17515	Mus musculus 	Secreted (curated)	C-X-C motif chemokine 10 
+P17533	Mus musculus 	Secreted (curated)	Alpha-defensin-related sequence 1 
+P17534	Mus musculus 	Secreted (curated)	Alpha-defensin-related sequence 2 
+P17553	Mus musculus 	Secreted (curated)	Proto-oncogene Wnt-3 
+P17742	Mus musculus 	Cytoplasm, Secreted (curated)	Peptidyl-prolyl cis-trans isomerase A 
+P17892	Mus musculus 	Secreted (curated)	Pancreatic lipase-related protein 2 
+P17897	Mus musculus 	Secreted (curated)	Lysozyme C-1 
+P18121	Mus musculus 	Secreted (curated)	Prolactin-3D1 
+P18242	Mus musculus 	Lysosome, Secreted (curated)	Cathepsin D 
+P18340	Mus musculus 	Secreted (curated)	C-X-C motif chemokine 9 
+P18406	Mus musculus 	Secreted (curated)	Protein CYR61 
+P18419	Mus musculus 	Secreted (curated)	Seminal vesicle secretory protein 4 
+P18761	Mus musculus 	Secreted (curated)	Carbonic anhydrase 6 
+P18828	Mus musculus 	Secreted (curated)	Syndecan-1 
+P18893	Mus musculus 	Secreted (curated)	Interleukin-10 
+P19137	Mus musculus 	Secreted (curated)	Laminin subunit alpha-1 
+P19228	Mus musculus 	Secreted (curated)	Alpha-S1-casein 
+P19467	Mus musculus 	Secreted (curated)	Mucin-13 
+P19788	Mus musculus 	Secreted (curated)	Matrix Gla protein 
+P20033	Mus musculus 	Secreted (curated)	Platelet-derived growth factor subunit A 
+P20109	Mus musculus 	Secreted (curated)	Interleukin-13 
+P20181	Mus musculus 	Secreted (curated)	Neurotrophin-3 
+P20722	Mus musculus 	Secreted (curated)	Bone morphogenetic protein 6 
+P20764	Mus musculus 	Secreted (curated)	Immunoglobulin lambda-like polypeptide 1 
+P20826	Mus musculus 	Secreted (curated)	Kit ligand 
+P20863	Mus musculus 	Secreted (curated)	Embryonic growth/differentiation factor 1 
+P20918	Mus musculus 	Secreted (curated)	Plasminogen 
+P21180	Mus musculus 	Secreted (curated)	Complement C2 
+P21237	Mus musculus 	Secreted (curated)	Brain-derived neurotrophic factor 
+P21274	Mus musculus 	Secreted (curated)	Bone morphogenetic protein 2 
+P21275	Mus musculus 	Secreted (curated)	Bone morphogenetic protein 4 
+P21460	Mus musculus 	Secreted (curated)	Cystatin-C 
+P21552	Mus musculus 	Secreted (curated)	Protein Wnt-2 
+P21570	Mus musculus 	Nucleus (membrane), Secreted (curated)	Angiogenin 
+P21614	Mus musculus 	Secreted (curated)	Vitamin D-binding protein 
+P21658	Mus musculus 	Secreted (curated)	Fibroblast growth factor 6 
+P21765	Mus musculus 	Secreted (curated)	Epididymal secretory glutathione peroxidase 
+P21836	Mus musculus 	Secreted (curated)	Acetylcholinesterase 
+P21841	Mus musculus 	Secreted (curated)	Pulmonary surfactant-associated protein C 
+P21844	Mus musculus 	Cytoplasm, Secreted (curated)	Chymase 
+P21845	Mus musculus 	Secreted (curated)	Tryptase beta-2 
+P21956	Mus musculus 	Secreted (curated)	Lactadherin 
+P22005	Mus musculus 	Secreted (curated)	Proenkephalin-A 
+P22387	Mus musculus 	Secreted (curated)	Endothelin-1 
+P22389	Mus musculus 	Secreted (curated)	Endothelin-2 
+P22599	Mus musculus 	Secreted (curated)	Alpha-1-antitrypsin 1-2 
+P22724	Mus musculus 	Secreted (curated)	Protein Wnt-4 
+P22725	Mus musculus 	Secreted (curated)	Protein Wnt-5a 
+P22726	Mus musculus 	Secreted (curated)	Protein Wnt-5b 
+P22727	Mus musculus 	Secreted (curated)	Protein Wnt-6 
+P22777	Mus musculus 	Secreted (curated)	Plasminogen activator inhibitor 1 
+P22858	Mus musculus 	Cytoplasm, Nucleus, Secreted (curated)	Parathyroid hormone-related protein 
+P23359	Mus musculus 	Secreted (curated)	Bone morphogenetic protein 7 
+P24383	Mus musculus 	Secreted (curated)	Protein Wnt-7a 
+P24452	Mus musculus 	Cytoplasm, Nucleus, Secreted (curated)	Macrophage-capping protein 
+P25318	Mus musculus 	Secreted (curated)	Collagen alpha-2(VIII) chain 
+P25785	Mus musculus 	Secreted (curated)	Metalloproteinase inhibitor 2 
+P26262	Mus musculus 	Secreted (curated)	Plasma kallikrein 
+P26339	Mus musculus 	Cytoplasm, Secreted (curated)	Chromogranin-A 
+P26928	Mus musculus 	Secreted (curated)	Hepatocyte growth factor-like protein 
+P27005	Mus musculus 	Cytoplasm, Cytoskeleton, Secreted (curated)	Protein S100-A8 
+P27090	Mus musculus 	Secreted (curated)	Transforming growth factor beta-2 
+P27106	Mus musculus 	Secreted (curated)	Muellerian-inhibiting factor 
+P27467	Mus musculus 	Secreted (curated)	Protein Wnt-3a 
+P27512	Mus musculus 	Secreted (curated)	Tumor necrosis factor receptor superfamily member 5 
+P27548	Mus musculus 	Secreted (curated)	CD40 ligand 
+P27656	Mus musculus 	Secreted (curated)	Hepatic triacylglycerol lipase 
+P27784	Mus musculus 	Secreted (curated)	C-C motif chemokine 6 
+P27931	Mus musculus 	Secreted (curated)	Interleukin-1 receptor type 2 
+P28047	Mus musculus 	Secreted (curated)	Protein Wnt-7b 
+P28301	Mus musculus 	Secreted (curated)	Protein-lysine 6-oxidase 
+P28309	Mus musculus 	Secreted (curated)	Alpha-defensin 2 
+P28310	Mus musculus 	Secreted (curated)	Alpha-defensin 3 
+P28311	Mus musculus 	Secreted (curated)	Alpha-defensin 4 
+P28312	Mus musculus 	Secreted (curated)	Alpha-defensin 5 
+P28481	Mus musculus 	Secreted (curated)	Collagen alpha-1(II) chain 
+P28653	Mus musculus 	Secreted (curated)	Biglycan 
+P28654	Mus musculus 	Secreted (curated)	Decorin 
+P28665	Mus musculus 	Secreted (curated)	Murinoglobulin-1 
+P28666	Mus musculus 	Secreted (curated)	Murinoglobulin-2 
+P28798	Mus musculus 	Secreted (curated)	Granulins 
+P28862	Mus musculus 	Secreted (curated)	Stromelysin-1 
+P29268	Mus musculus 	Secreted (curated)	Connective tissue growth factor 
+P29319	Mus musculus 	Secreted (curated)	Ephrin type-A receptor 3 
+P29621	Mus musculus 	Secreted (curated)	Serine protease inhibitor A3C 
+P29699	Mus musculus 	Secreted (curated)	Alpha-2-HS-glycoprotein 
+P29752	Mus musculus 	Secreted (curated)	Alpha-lactalbumin 
+P29788	Mus musculus 	Secreted (curated)	Vitronectin 
+P30882	Mus musculus 	Secreted (curated)	C-C motif chemokine 5 
+P30933	Mus musculus 	Secreted (curated)	Seminal vesicle secretory protein 5 
+P31230	Mus musculus 	Cytoplasm, ER, Golgi apparatus, Nucleus, Secreted (curated)	Aminoacyl tRNA synthase complex-interacting multifunctional protein 1 
+P31240	Mus musculus 	Secreted (curated)	Platelet-derived growth factor subunit B 
+P31532	Mus musculus 	Secreted (curated)	Serum amyloid A-4 protein 
+P31725	Mus musculus 	Cytoplasm, Cytoskeleton, Secreted (curated)	Protein S100-A9 
+P32261	Mus musculus 	Secreted (curated)	Antithrombin-III 
+P32648	Mus musculus 	Secreted (curated)	VIP peptides 
+P32766	Mus musculus 	Secreted (curated)	Cystatin-8 
+P33435	Mus musculus 	Secreted (curated)	Collagenase 3 
+P33622	Mus musculus 	Secreted (curated)	Apolipoprotein C-III 
+P33680	Mus musculus 	Secreted (curated)	Guanylin 
+P34821	Mus musculus 	Secreted (curated)	Bone morphogenetic protein 8A 
+P34884	Mus musculus 	Cytoplasm, Secreted (curated)	Macrophage migration inhibitory factor 
+P34928	Mus musculus 	Secreted (curated)	Apolipoprotein C-I 
+P34960	Mus musculus 	Secreted (curated)	Macrophage metalloelastase 
+P35230	Mus musculus 	Secreted (curated)	Regenerating islet-derived protein 3-beta 
+P35242	Mus musculus 	Secreted (curated)	Pulmonary surfactant-associated protein A 
+P35455	Mus musculus 	Secreted (curated)	Vasopressin-neurophysin 2-copeptin 
+P35456	Mus musculus 	GPI anchored (membrane), Secreted (curated)	Urokinase plasminogen activator surface receptor 
+P35846	Mus musculus 	Cytoplasm, GPI anchored, Secreted (curated)	Folate receptor alpha 
+P35918	Mus musculus 	Secreted (curated)	Vascular endothelial growth factor receptor 2 
+P36363	Mus musculus 	Secreted (curated)	Fibroblast growth factor 7 
+P37237	Mus musculus 	Secreted (curated)	Fibroblast growth factor 8 
+P37889	Mus musculus 	Secreted (curated)	Fibulin-2 
+P38649	Mus musculus 	Golgi apparatus (membrane), Secreted (curated)	Histo-blood group ABO system transferase 
+P39039	Mus musculus 	Secreted (curated)	Mannose-binding protein A 
+P39061	Mus musculus 	Secreted (curated)	Collagen alpha-1(XVIII) chain 
+P39876	Mus musculus 	Secreted (curated)	Metalloproteinase inhibitor 3 
+P40224	Mus musculus 	Secreted (curated)	Stromal cell-derived factor 1 
+P40226	Mus musculus 	Secreted (curated)	Thrombopoietin 
+P40753	Mus musculus 	Secreted (curated)	Natriuretic peptides B 
+P41160	Mus musculus 	Secreted (curated)	Leptin 
+P41245	Mus musculus 	Secreted (curated)	Matrix metalloproteinase-9 
+P41317	Mus musculus 	Secreted (curated)	Mannose-binding protein C 
+P41539	Mus musculus 	Secreted (curated)	Protachykinin-1 
+P42703	Mus musculus 	Secreted (curated)	Leukemia inhibitory factor receptor 
+P43021	Mus musculus 	Secreted (curated)	Nodal 
+P43025	Mus musculus 	Secreted (curated)	Tetranectin 
+P43027	Mus musculus 	Secreted (curated)	Growth/differentiation factor 5 
+P43028	Mus musculus 	Secreted (curated)	Growth/differentiation factor 6 
+P43029	Mus musculus 	Secreted (curated)	Growth/differentiation factor 7 
+P43137	Mus musculus 	Secreted (curated)	Lithostathine-1 
+P43430	Mus musculus 	Cytoplasm, Secreted (curated)	Mast cell protease 8 
+P43431	Mus musculus 	GPI anchored, Secreted (curated)	Interleukin-12 subunit alpha 
+P43432	Mus musculus 	Secreted (curated)	Interleukin-12 subunit beta 
+P46412	Mus musculus 	Secreted (curated)	Glutathione peroxidase 3 
+P46686	Mus musculus 	Cytoplasm, Secreted (curated)	Tubby-related protein 2 
+P47212	Mus musculus 	Secreted (curated)	Galanin peptides 
+P47867	Mus musculus 	Cytoplasm, Secreted (curated)	Secretogranin-3 
+P47873	Mus musculus 	Secreted (curated)	Interleukin-11 
+P47876	Mus musculus 	Secreted (curated)	Insulin-like growth factor-binding protein 1 
+P47877	Mus musculus 	Secreted (curated)	Insulin-like growth factor-binding protein 2 
+P47878	Mus musculus 	Secreted (curated)	Insulin-like growth factor-binding protein 3 
+P47879	Mus musculus 	Secreted (curated)	Insulin-like growth factor-binding protein 4 
+P47880	Mus musculus 	Secreted (curated)	Insulin-like growth factor-binding protein 6 
+P47931	Mus musculus 	Secreted (curated)	Follistatin 
+P47932	Mus musculus 	Secreted (curated)	Prorelaxin 1 
+P47939	Mus musculus 	ER, Golgi apparatus, Secreted (curated)	Regulated endocrine-specific protein 18 
+P47993	Mus musculus 	Secreted (curated)	Lymphotactin 
+P48076	Mus musculus 	Secreted (curated)	Group IIC secretory phospholipase A2 
+P48298	Mus musculus 	Secreted (curated)	Eotaxin 
+P48299	Mus musculus 	Secreted (curated)	Endothelin-3 
+P48346	Mus musculus 	Secreted (curated)	Interleukin-15 
+P48356	Mus musculus 	Secreted (curated)	Leptin receptor 
+P48540	Mus musculus 	Secreted (curated)	Glial cell line-derived neurotrophic factor 
+P48614	Mus musculus 	Secreted (curated)	Protein Wnt-10b 
+P48615	Mus musculus 	Secreted (curated)	Protein Wnt-11 
+P48744	Mus musculus 	Secreted (curated)	Norrin 
+P48756	Mus musculus 	Secreted (curated)	Gastric inhibitory polypeptide 
+P48757	Mus musculus 	Secreted (curated)	Gastrin 
+P48759	Mus musculus 	Secreted (curated)	Pentraxin-related protein PTX3 
+P49003	Mus musculus 	Secreted (curated)	Bone morphogenetic protein 5 
+P49183	Mus musculus 	Nucleus, Secreted (curated)	Deoxyribonuclease-1 
+P49194	Mus musculus 	Secreted (curated)	Retinol-binding protein 3 
+P49764	Mus musculus 	Secreted (curated)	Placenta growth factor 
+P49766	Mus musculus 	Secreted (curated)	Vascular endothelial growth factor B 
+P49772	Mus musculus 	Secreted (curated)	Fms-related tyrosine kinase 3 ligand 
+P50228	Mus musculus 	Secreted (curated)	C-X-C motif chemokine 5 
+P50404	Mus musculus 	Secreted (curated)	Pulmonary surfactant-associated protein D 
+P50405	Mus musculus 	Secreted (curated)	Pulmonary surfactant-associated protein B 
+P50586	Mus musculus 	Cytoplasm, Nucleus (membrane), Plasma membrane, Secreted (curated)	Tubby protein 
+P50608	Mus musculus 	Secreted (curated)	Fibromodulin 
+P50704	Mus musculus 	Secreted (curated)	Alpha-defensin 6/12 
+P50705	Mus musculus 	Secreted (curated)	Alpha-defensin 7 
+P50706	Mus musculus 	Secreted (curated)	Alpha-defensin 8 (Fragment) 
+P50707	Mus musculus 	Secreted (curated)	Alpha-defensin 9 
+P50708	Mus musculus 	Secreted (curated)	Alpha-defensin 10 
+P50709	Mus musculus 	Secreted (curated)	Alpha-defensin 11 (Fragment) 
+P50711	Mus musculus 	Secreted (curated)	Alpha-defensin 13 
+P50712	Mus musculus 	Secreted (curated)	Alpha-defensin 14 (Fragment) 
+P50713	Mus musculus 	Secreted (curated)	Alpha-defensin 15 
+P50714	Mus musculus 	Secreted (curated)	Alpha-defensin 16 
+P50715	Mus musculus 	Secreted (curated)	Alpha-defensin-related sequence 7 
+P50716	Mus musculus 	Secreted (curated)	Alpha-defensin-related sequence 12 
+P51437	Mus musculus 	Secreted (curated)	Cathelin-related antimicrobial peptide 
+P51655	Mus musculus 	GPI anchored, Secreted (curated)	Glypican-4 
+P51670	Mus musculus 	Secreted (curated)	C-C motif chemokine 9 
+P51885	Mus musculus 	Secreted (curated)	Lumican 
+P51910	Mus musculus 	Secreted (curated)	Apolipoprotein D 
+P51942	Mus musculus 	Secreted (curated)	Cartilage matrix protein 
+P52430	Mus musculus 	Secreted (curated)	Serum paraoxonase/arylesterase 1 
+P52787	Mus musculus 	Secreted (curated)	Gastric intrinsic factor 
+P52793	Mus musculus 	GPI anchored, Secreted (curated)	Ephrin-A1 
+P53347	Mus musculus 	Secreted (curated)	Oncostatin-M 
+P53690	Mus musculus 	Cytoplasm, Secreted (curated)	Matrix metalloproteinase-14 
+P54130	Mus musculus 	Secreted (curated)	Fibroblast growth factor 9 
+P54320	Mus musculus 	Secreted (curated)	Elastin 
+P54615	Mus musculus 	Secreted (curated)	Osteocalcin-related protein 
+P54751	Mus musculus 	Golgi apparatus (membrane), Secreted (curated)	CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase 1 
+P55002	Mus musculus 	Secreted (curated)	Microfibrillar-associated protein 2 
+P55065	Mus musculus 	Secreted (curated)	Phospholipid transfer protein 
+P55066	Mus musculus 	Secreted (curated)	Neurocan core protein 
+P55095	Mus musculus 	Secreted (curated)	Glucagon 
+P55099	Mus musculus 	Secreted (curated)	Tachykinin-3 
+P55104	Mus musculus 	Secreted (curated)	Inhibin beta C chain 
+P55105	Mus musculus 	Secreted (curated)	Bone morphogenetic protein 8B 
+P56386	Mus musculus 	Secreted (curated)	Beta-defensin 1 
+P56388	Mus musculus 	Secreted (curated)	Cocaine- and amphetamine-regulated transcript protein 
+P56469	Mus musculus 	Secreted (curated)	Cortistatin 
+P56473	Mus musculus 	Golgi apparatus, Secreted (curated)	Agouti-related protein 
+P56942	Mus musculus 	Secreted (curated)	Pro-MCH 
+P56974	Mus musculus 	Secreted (curated)	Pro-neuregulin-2, membrane-bound isoform 
+P57016	Mus musculus 	Secreted (curated)	Ladinin-1 
+P57110	Mus musculus 	Secreted (curated)	A disintegrin and metalloproteinase with thrombospondin motifs 8 
+P57748	Mus musculus 	Secreted (curated)	Matrix metalloproteinase-20 
+P57774	Mus musculus 	Secreted (curated)	Pro-neuropeptide Y 
+P57785	Mus musculus 	Secreted (curated)	Left-right determination factor 2 
+P58022	Mus musculus 	Nucleus (membrane), Secreted (curated)	Lysyl oxidase homolog 2 
+P58242	Mus musculus 	GPI anchored, Secreted (curated)	Acid sphingomyelinase-like phosphodiesterase 3b 
+P58459	Mus musculus 	Secreted (curated)	A disintegrin and metalloproteinase with thrombospondin motifs 10 
+P59384	Mus musculus 	Secreted (curated)	A disintegrin and metalloproteinase with thrombospondin motifs 15 
+P59509	Mus musculus 	Secreted (curated)	A disintegrin and metalloproteinase with thrombospondin motifs 19 
+P59511	Mus musculus 	Secreted (curated)	A disintegrin and metalloproteinase with thrombospondin motifs 20 
+P59900	Mus musculus 	Cytoplasm, Secreted (curated)	EMILIN-3 
+P60041	Mus musculus 	Secreted (curated)	Somatostatin 
+P60154	Mus musculus 	Secreted (curated)	Inactive ribonuclease-like protein 9 
+P61110	Mus musculus 	Secreted (curated)	Kidney androgen-regulated protein 
+P61148	Mus musculus 	Cytoplasm, Nucleus (membrane), Secreted (curated)	Fibroblast growth factor 1 
+P61364	Mus musculus 	Secreted (curated)	Osteocrin 
+P61939	Mus musculus 	Secreted (curated)	Thyroxine-binding globulin 
+P62810	Mus musculus 	Secreted (curated)	WAP four-disulfide core domain protein 18 
+P62960	Mus musculus 	Cytoplasm, Nucleus, Secreted (curated)	Nuclease-sensitive element-binding protein 1 
+P63056	Mus musculus 	Secreted (curated)	Noelin-3 
+P63075	Mus musculus 	Secreted (curated)	Fibroblast growth factor 17 
+P63089	Mus musculus 	Secreted (curated)	Pleiotrophin 
+P63277	Mus musculus 	Secreted (curated)	Amelogenin, X isoform 
+P70124	Mus musculus 	Secreted (curated)	Serpin B5 
+P70158	Mus musculus 	Secreted (curated)	Acid sphingomyelinase-like phosphodiesterase 3a 
+P70160	Mus musculus 	Secreted (curated)	Calcitonin 
+P70186	Mus musculus 	Secreted (curated)	Epiphycan 
+P70232	Mus musculus 	Secreted (curated)	Neural cell adhesion molecule L1-like protein 
+P70274	Mus musculus 	Secreted (curated)	Selenoprotein P 
+P70275	Mus musculus 	Secreted (curated)	Semaphorin-3E 
+P70352	Mus musculus 	Secreted (curated)	Ecto-ADP-ribosyltransferase 5 
+P70375	Mus musculus 	Secreted (curated)	Coagulation factor VII 
+P70380	Mus musculus 	Secreted (curated)	Interleukin-18 
+P70389	Mus musculus 	Secreted (curated)	Insulin-like growth factor-binding protein complex acid labile subunit 
+P70458	Mus musculus 	Plasma membrane, Secreted (curated)	Plasma serine protease inhibitor 
+P70663	Mus musculus 	Secreted (curated)	SPARC-like protein 1 
+P70701	Mus musculus 	Secreted (curated)	Protein Wnt-10a 
+P81117	Mus musculus 	Secreted (curated)	Nucleobindin-2 
+P81615	Mus musculus 	Secreted (curated)	Urocortin 
+P82019	Mus musculus 	Secreted (curated)	Beta-defensin 4 
+P82020	Mus musculus 	Secreted (curated)	Beta-defensin 2 
+P82198	Mus musculus 	Secreted (curated)	Transforming growth factor-beta-induced protein ig-h3 
+P83503	Mus musculus 	Secreted (curated)	Nyctalopin 
+P83714	Mus musculus 	Secreted (curated)	Cardiotrophin-2 
+P84444	Mus musculus 	Secreted (curated)	C-C motif chemokine 21a 
+P84750	Mus musculus 	Secreted (curated)	Ig kappa chain V region Mem5 (Fragment) 
+P84751	Mus musculus 	Secreted (curated)	Ig heavy chain Mem5 (Fragment) 
+P86546	Mus musculus 	Secreted (curated)	Osteocalcin 
+P86547	Mus musculus 	Secreted (curated)	Osteocalcin-2 
+P86792	Mus musculus 	Secreted (curated)	C-C motif chemokine 21b 
+P86793	Mus musculus 	Secreted (curated)	C-C motif chemokine 21c 
+P97290	Mus musculus 	Secreted (curated)	Plasma protease C1 inhibitor 
+P97297	Mus musculus 	Secreted (curated)	ADM 
+P97298	Mus musculus 	Secreted (curated)	Pigment epithelium-derived factor 
+P97299	Mus musculus 	Secreted (curated)	Secreted frizzled-related protein 2 
+P97347	Mus musculus 	Secreted (curated)	Repetin 
+P97352	Mus musculus 	Cytoplasm, Secreted (curated)	Protein S100-A13 
+P97361	Mus musculus 	Secreted (curated)	BPI fold-containing family A member 1 
+P97391	Mus musculus 	Golgi apparatus (membrane), Nucleus (membrane), Plasma membrane, Secreted (curated)	Calcium-dependent phospholipase A2 
+P97399	Mus musculus 	Secreted (curated)	Dentin sialophosphoprotein 
+P97400	Mus musculus 	Cytoplasm, Secreted (curated)	Galectin-10 (Fragment) 
+P97401	Mus musculus 	Secreted (curated)	Secreted frizzled-related protein 3 
+P97430	Mus musculus 	Secreted (curated)	Antileukoproteinase 
+P97463	Mus musculus 	Secreted (curated)	Neurturin 
+P97466	Mus musculus 	Secreted (curated)	Noggin 
+P97497	Mus musculus 	Secreted (curated)	Sex hormone-binding globulin 
+P97737	Mus musculus 	Secreted (curated)	Bone morphogenetic protein 3B 
+P97766	Mus musculus 	Secreted (curated)	Cryptic protein 
+P97792	Mus musculus 	Secreted (curated)	Coxsackievirus and adenovirus receptor homolog 
+P97802	Mus musculus 	Nucleus (membrane), Secreted (curated)	Angiogenin-3 
+P97805	Mus musculus 	Secreted (curated)	Protein FAM3D 
+P97857	Mus musculus 	Secreted (curated)	A disintegrin and metalloproteinase with thrombospondin motifs 1 
+P97873	Mus musculus 	Secreted (curated)	Lysyl oxidase homolog 1 
+P97927	Mus musculus 	GPI anchored, Secreted (curated)	Laminin subunit alpha-4 
+P97946	Mus musculus 	Secreted (curated)	Vascular endothelial growth factor D 
+P97953	Mus musculus 	Secreted (curated)	Vascular endothelial growth factor C 
+P98063	Mus musculus 	Golgi apparatus, Secreted (curated)	Bone morphogenetic protein 1 
+P98064	Mus musculus 	Secreted (curated)	Mannan-binding lectin serine protease 1 
+P98086	Mus musculus 	Secreted (curated)	Complement C1q subcomponent subunit A 
+Q00493	Mus musculus 	Cytoplasm, Secreted (curated)	Carboxypeptidase E 
+Q00519	Mus musculus 	Cytoplasm, Peroxisome, Secreted (curated)	Xanthine dehydrogenase/oxidase 
+Q00623	Mus musculus 	Secreted (curated)	Apolipoprotein A-I 
+Q00724	Mus musculus 	Secreted (curated)	Retinol-binding protein 4 
+Q00780	Mus musculus 	Secreted (curated)	Collagen alpha-1(VIII) chain 
+Q00896	Mus musculus 	Secreted (curated)	Alpha-1-antitrypsin 1-3 
+Q00897	Mus musculus 	Secreted (curated)	Alpha-1-antitrypsin 1-4 
+Q00898	Mus musculus 	Secreted (curated)	Alpha-1-antitrypsin 1-5 
+Q01114	Mus musculus 	Secreted (curated)	Interleukin-9 receptor 
+Q01149	Mus musculus 	Secreted (curated)	Collagen alpha-2(I) chain 
+Q01339	Mus musculus 	Secreted (curated)	Beta-2-glycoprotein 1 
+Q01488	Mus musculus castaneus 	Secreted (curated)	Apolipoprotein A-IV (Precursor) 
+Q01514	Mus musculus 	Cytoplasm, Golgi apparatus (membrane), Secreted (curated)	Interferon-induced guanylate-binding protein 1 
+Q02105	Mus musculus 	Secreted (curated)	Complement C1q subcomponent subunit C 
+Q02788	Mus musculus 	Secreted (curated)	Collagen alpha-2(VI) chain 
+Q02853	Mus musculus 	Secreted (curated)	Stromelysin-3 
+Q02858	Mus musculus 	Cytoplasm, Cytoskeleton, Secreted (curated)	Angiopoietin-1 receptor 
+Q02862	Mus musculus 	Secreted (curated)	Alpha-S2-casein-like A 
+Q03265	Mus musculus 	Mitochondria (membrane), Secreted (curated)	ATP synthase subunit alpha, mitochondrial 
+Q03288	Mus musculus 	Secreted (curated)	Agouti-signaling protein 
+Q03311	Mus musculus 	Secreted (curated)	Cholinesterase 
+Q03366	Mus musculus 	Secreted (curated)	C-C motif chemokine 7 
+Q03404	Mus musculus 	Secreted (curated)	Trefoil factor 2 
+Q03517	Mus musculus 	Secreted (curated)	Secretogranin-2 
+Q03734	Mus musculus 	Secreted (curated)	Serine protease inhibitor A3M 
+Q04857	Mus musculus 	Secreted (curated)	Collagen alpha-1(VI) chain 
+Q04997	Mus musculus 	Secreted (curated)	Inhibin alpha chain 
+Q04998	Mus musculus 	Secreted (curated)	Inhibin beta A chain 
+Q04999	Mus musculus 	Secreted (curated)	Inhibin beta B chain 
+Q05020	Mus musculus 	Secreted (curated)	Apolipoprotein C-II 
+Q05306	Mus musculus 	Secreted (curated)	Collagen alpha-1(X) chain 
+Q05722	Mus musculus 	Secreted (curated)	Collagen alpha-1(IX) chain 
+Q05793	Mus musculus 	Secreted (curated)	Basement membrane-specific heparan sulfate proteoglycan core protein 
+Q059Y4	Mus musculus 	Secreted (curated)	Protein Wnt 
+Q06194	Mus musculus 	Secreted (curated)	Coagulation factor VIII 
+Q06318	Mus musculus 	Secreted (curated)	Uteroglobin 
+Q06770	Mus musculus 	Secreted (curated)	Corticosteroid-binding globulin 
+Q06890	Mus musculus 	Cytoplasm, ER (membrane), Mitochondria (membrane), Nucleus (membrane), Secreted (curated)	Clusterin 
+Q07079	Mus musculus 	Secreted (curated)	Insulin-like growth factor-binding protein 5 
+Q07104	Mus musculus 	Secreted (curated)	Growth/differentiation factor 3 
+Q07105	Mus musculus 	Secreted (curated)	Growth/differentiation factor 9 
+Q07235	Mus musculus 	Secreted (curated)	Glia-derived nexin 
+Q07456	Mus musculus 	Secreted (curated)	Protein AMBP 
+Q07563	Mus musculus 	Secreted (curated)	Collagen alpha-1(XVII) chain 
+Q07643	Mus musculus 	Secreted (curated)	Collagen alpha-2(IX) chain 
+Q07797	Mus musculus 	Secreted (curated)	Galectin-3-binding protein 
+Q07968	Mus musculus 	Secreted (curated)	Coagulation factor XIII B chain 
+Q08423	Mus musculus 	Secreted (curated)	Trefoil factor 1 
+Q08535	Mus musculus 	Secreted (curated)	Secretin 
+Q08731	Mus musculus 	Secreted (curated)	Lithostathine-2 
+Q08761	Mus musculus 	Secreted (curated)	Vitamin K-dependent protein S 
+Q08879	Mus musculus 	Secreted (curated)	Fibulin-1 
+Q09098	Mus musculus 	Secreted (curated)	Prostate and testis expressed protein 4 
+Q09TK7	Mus musculus 	Secreted (curated)	Serine protease inhibitor Kazal-type 11 
+Q09TK9	Mus musculus 	Secreted (curated)	Serine protease inhibitor Kazal-type 8 
+Q0IJ79	Mus musculus 	Secreted (curated)	Ifna9 protein (Fragment) 
+Q0VB07	Mus musculus 	Secreted (curated)	Peptidoglycan recognition protein 4 
+Q0VBT1	Mus musculus 	Secreted (curated)	Protein Wnt 
+Q0VDS2	Mus musculus 	Secreted (curated)	Protein Wnt 
+Q0VE17	Mus musculus 	Secreted (curated)	Interferon beta 1, fibroblast 
+Q0VF58	Mus musculus 	Secreted (curated)	Collagen alpha-1(XIX) chain 
+Q0VG49	Mus musculus 	Secreted (curated)	Uncharacterized protein C15orf61 homolog 
+Q10738	Mus musculus 	Secreted (curated)	Matrilysin 
+Q11204	Mus musculus 	Golgi apparatus (membrane), Secreted (curated)	CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase 2 
+Q149I5	Mus musculus 	Secreted (curated)	Ifna6 protein 
+Q14A28	Mus musculus 	Secreted (curated)	Prokineticin-1 
+Q14AC4	Mus musculus 	Secreted (curated)	Gonadoliberin 
+Q14AE4	Mus musculus 	Secreted (curated)	WAP four-disulfide core domain protein 3 
+Q14AI3	Mus musculus 	Secreted (curated)	Thyroid stimulating hormone, beta subunit 
+Q14B24	Mus musculus 	Secreted (curated)	Serine protease 57 
+Q14B25	Mus musculus 	Secreted (curated)	Serine protease 48 
+Q14DK5	Mus musculus 	Secreted (curated)	HHIP-like protein 1 
+Q19LI2	Mus musculus 	Secreted (curated)	Alpha-1B-glycoprotein 
+Q1HCM0	Mus musculus 	Secreted (curated)	Fibroblast growth factor-binding protein 3 
+Q1RME7	Mus musculus 	Secreted (curated)	Protein Wnt 
+Q1WWM6	Mus musculus 	Secreted (curated)	Ifna2 protein (Fragment) 
+Q1WWN2	Mus musculus 	Secreted (curated)	OTTMUSG00000011275 protein (Fragment) 
+Q2F9P8	Mus musculus 	Secreted (curated)	Beta-defensin (Precursor) 
+Q2M2Q1	Mus musculus 	Secreted (curated)	Rln1 protein (Fragment) 
+Q2NL39	Mus musculus 	Secreted (curated)	Gphb5 protein (Fragment) 
+Q2QI47	Mus musculus 	Secreted (curated)	Usherin 
+Q2TBA6	Mus musculus 	Secreted (curated)	Protein Wnt 
+Q2TJ95	Mus musculus 	Secreted (curated)	R-spondin-3 
+Q2UY11	Mus musculus 	Secreted (curated)	Collagen alpha-1(XXVIII) chain 
+Q2VWQ2	Mus musculus 	Cytoplasm, Nucleus, Secreted (curated)	Protein kinase C-binding protein NELL1 
+Q30D77	Mus musculus 	Secreted (curated)	Collagen alpha-1(XXIV) chain 
+Q30KM9	Mus musculus 	Secreted (curated)	Beta-defensin 43 
+Q30KN3	Mus musculus 	Secreted (curated)	Beta-defensin 33 
+Q30KN4	Mus musculus 	Secreted (curated)	Beta-defensin 30 
+Q30KN7	Mus musculus 	Secreted (curated)	Beta-defensin 
+Q30KN8	Mus musculus 	Secreted (curated)	Beta-defensin 25 
+Q30KP0	Mus musculus 	Secreted (curated)	Beta-defensin 129 
+Q30KP3	Mus musculus 	Secreted (curated)	Beta-defensin 20 
+Q30KP4	Mus musculus 	Secreted (curated)	Beta-defensin (Fragment) 
+Q30KP5	Mus musculus 	Secreted (curated)	Beta-defensin 18 
+Q30KP6	Mus musculus 	Secreted (curated)	Beta-defensin 17 
+Q32KI9	Mus musculus 	ER, Secreted (curated)	Arylsulfatase I 
+Q3L180	Mus musculus 	Secreted (curated)	Alpha-defensin 26 
+Q3LHH8	Mus musculus 	Secreted (curated)	Exocrine gland-secreted peptide 1 
+Q3MI99	Mus musculus 	Secreted (curated)	Collagen and calcium-binding EGF domain-containing protein 1 
+Q3SXB8	Mus musculus 	Secreted (curated)	Collectin-11 
+Q3SXG6	Mus musculus 	Secreted (curated)	Gastric inhibitory polypeptide 
+Q3TAS6	Mus musculus 	Secreted (curated)	ER membrane protein complex subunit 10 
+Q3TB92	Mus musculus 	Secreted (curated)	Allergin-1 
+Q3TER4	Mus musculus 	Secreted (curated)	Protein Wnt (Fragment) 
+Q3TJ02	Mus musculus 	Secreted (curated)	Protein Wnt 
+Q3TJJ8	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3TMQ6	Mus musculus 	Cytoplasm, Nucleus (membrane), Secreted (curated)	Angiogenin-4 
+Q3TNH5	Mus musculus 	Secreted (curated)	Protein FAM172A 
+Q3TQ59	Mus musculus 	Secreted (curated)	Protein Wnt 
+Q3TSV5	Mus musculus 	Secreted (curated)	Protein Wnt 
+Q3TT66	Mus musculus 	Secreted (curated)	Prolactin, isoform CRA_b 
+Q3TVN6	Mus musculus 	Secreted (curated)	Chemokine (C-X-C motif) ligand 4, isoform CRA_c 
+Q3TX39	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3TX45	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3TXU4	Mus musculus 	Secreted (curated)	Apolipoprotein E, isoform CRA_h 
+Q3TYV2	Mus musculus 	Secreted (curated)	HERV-H LTR-associating protein 1 homolog 
+Q3U089	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3U0B3	Mus musculus 	Secreted (curated)	Dehydrogenase/reductase SDR family member 11 
+Q3U0T4	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3U1E8	Mus musculus 	Secreted (curated)	Chemokine (C-X-C motif) ligand 13 
+Q3U1J5	Mus musculus 	Secreted (curated)	Chemokine (C-X-C motif) ligand 2 
+Q3U1L9	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3U492	Mus musculus 	Secreted (curated)	Kielin/chordin-like protein 
+Q3U4B4	Mus musculus 	Secreted (curated)	Lipase member N 
+Q3U515	Mus musculus 	Secreted (curated)	von Willebrand factor C and EGF domain-containing protein 
+Q3U679	Mus musculus 	Secreted (curated)	Beta-2-microglobulin 
+Q3U6K5	Mus musculus 	Secreted (curated)	Spermatogenesis-associated protein 6 
+Q3U6X5	Mus musculus 	Secreted (curated)	Putative uncharacterized protein (Fragment) 
+Q3U962	Mus musculus 	Secreted (curated)	Collagen alpha-2(V) chain 
+Q3UAS6	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3UBS0	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3UCP1	Mus musculus 	Secreted (curated)	Putative uncharacterized protein (Fragment) 
+Q3UCV1	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3UEC0	Mus musculus 	Secreted (curated)	Putative uncharacterized protein (Fragment) 
+Q3UEE7	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3UHD2	Mus musculus 	Secreted (curated)	Glucose-fructose oxidoreductase domain-containing protein 1 
+Q3UHN1	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3UK71	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3UKU8	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3UKX5	Mus musculus 	Secreted (curated)	Protein Prl2c5 
+Q3UKY7	Mus musculus 	GPI anchored (membrane), Secreted (curated)	Serine protease 38 
+Q3ULV2	Mus musculus 	Secreted (curated)	Putative uncharacterized protein (Fragment) 
+Q3UN54	Mus musculus 	Secreted (curated)	Secreted seminal-vesicle Ly-6 protein 1 
+Q3UN82	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3UPR9	Mus musculus 	Secreted (curated)	Somatomedin-B and thrombospondin type-1 domain-containing protein 
+Q3UPY5	Mus musculus 	Secreted (curated)	Beta-galactosidase-1-like protein 2 
+Q3UQ22	Mus musculus 	Secreted (curated)	Netrin-5 
+Q3UQ28	Mus musculus 	Secreted (curated)	Peroxidasin homolog 
+Q3UR78	Mus musculus 	Secreted (curated)	Neuropeptide-like protein C4orf48 homolog 
+Q3UR96	Mus musculus 	Secreted (curated)	Protein Wnt 
+Q3UST5	Mus musculus 	Secreted (curated)	UPF0764 protein C16orf89 homolog 
+Q3USZ8	Mus musculus 	Cytoplasm, Golgi apparatus, Secreted (curated)	Deleted in autism protein 1 homolog 
+Q3UTE9	Mus musculus 	Secreted (curated)	Gonadoliberin 
+Q3UTS8	Mus musculus 	Secreted (curated)	Serine protease inhibitor Kazal-type 13 
+Q3UTY6	Mus musculus 	Secreted (curated)	Thrombospondin type-1 domain-containing protein 4 
+Q3UTY8	Mus musculus 	Secreted (curated)	Protein Wnt 
+Q3UU35	Mus musculus 	Secreted (curated)	Ovostatin homolog 
+Q3UUG9	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3UW05	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3UW21	Mus musculus 	Secreted (curated)	Colipase-like protein 2 
+Q3UW26	Mus musculus 	Secreted (curated)	Binder of sperm protein homolog 1 
+Q3UW31	Mus musculus 	Secreted (curated)	Prostate and testis expressed protein 2 
+Q3UW41	Mus musculus 	Secreted (curated)	Protein WFDC9 
+Q3UW55	Mus musculus 	Secreted (curated)	WAP four-disulfide core domain protein 6A 
+Q3UY90	Mus musculus 	Secreted (curated)	Protein FAM198A 
+Q3UYH8	Mus musculus 	Secreted (curated)	Adenylate cyclase activating polypeptide 1, isoform CRA_a 
+Q3UZ09	Mus musculus 	Secreted (curated)	Complement C1r subcomponent-like protein 
+Q3UZW2	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3UZZ4	Mus musculus 	Mitochondria, Secreted (curated)	Olfactomedin-4 
+Q3V140	Mus musculus 	Cytoplasm, Secreted (curated)	Acrosin-binding protein 
+Q3V188	Mus musculus 	Secreted (curated)	Poly(U)-specific endoribonuclease 
+Q3V1F8	Mus musculus 	Secreted (curated)	Epoxide hydrolase 3 
+Q3V1G4	Mus musculus 	Secreted (curated)	Olfactomedin-like protein 2B 
+Q3V1I0	Mus musculus 	Secreted (curated)	Lysozyme g-like protein 2 
+Q3V1M1	Mus musculus 	Secreted (curated)	Immunoglobulin superfamily member 10 
+Q3V1T4	Mus musculus 	ER, Secreted (curated)	Prolyl 3-hydroxylase 1 
+Q3V249	Mus musculus 	Secreted (curated)	Urotensin 2 domain containing 
+Q3V285	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3V2D2	Mus musculus 	Secreted (curated)	Uncharacterized protein C5orf46 homolog 
+Q3V2G1	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3V2L0	Mus musculus 	Secreted (curated)	Beta-defensin 
+Q3V2T4	Mus musculus 	Secreted (curated)	Keratinocyte differentiation-associated protein 
+Q3V310	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q3V334	Mus musculus 	Secreted (curated)	Peptide YY, isoform CRA_b 
+Q3V3I5	Mus musculus 	Secreted (curated)	Uncharacterized protein C17orf67 homolog 
+Q3V490	Mus musculus 	Secreted (curated)	Beta-defensin 
+Q3ZB23	Mus musculus 	Secreted (curated)	Protein Wnt 
+Q3ZRW6	Mus musculus 	Secreted (curated)	Clusterin-like protein 1 
+Q45VN2	Mus musculus 	Secreted (curated)	Alpha-defensin 20 
+Q496V3	Mus musculus 	Secreted (curated)	Ifna2 protein (Fragment) 
+Q496W3	Mus musculus 	Secreted (curated)	Ifna2 protein (Fragment) 
+Q496X5	Mus musculus 	Secreted (curated)	Pancreatic polypeptide 
+Q499E0	Mus musculus 	Mitochondria, Secreted (curated)	BMP/retinoic acid-inducible neural-specific protein 3 
+Q4FK40	Mus musculus 	Secreted (curated)	Apoe protein 
+Q4FZG8	Mus musculus 	Secreted (curated)	Oocyte-secreted protein 2 
+Q4FZL7	Mus musculus 	Secreted (curated)	Interferon kappa 
+Q4LFA9	Mus musculus 	Secreted (curated)	Semaphorin-3G 
+Q4VBE4	Mus musculus 	Secreted (curated)	Pikachurin 
+Q4VC17	Mus musculus 	Secreted (curated)	A disintegrin and metalloproteinase with thrombospondin motifs 18 
+Q4VJB9	Mus musculus 	Secreted (curated)	Insulin-like growth factor 1 isoform Eb 
+Q4VJC0	Mus musculus 	Secreted (curated)	Insulin-like growth factor 1 isoform Ea 
+Q4VK74	Mus musculus 	Secreted (curated)	Interferon lambda-2 
+Q4ZJM7	Mus musculus 	Secreted (curated)	Otolin-1 
+Q4ZJM9	Mus musculus 	Secreted (curated)	Complement C1q-like protein 4 
+Q4ZJN1	Mus musculus 	Secreted (curated)	Complement C1q and tumor necrosis factor-related protein 9 
+Q501P1	Mus musculus 	Secreted (curated)	Fibulin-7 
+Q504N0	Mus musculus 	Secreted (curated)	Carboxypeptidase A2 
+Q505H4	Mus musculus 	Secreted (curated)	von Willebrand factor C domain-containing protein 2-like 
+Q52KP5	Mus musculus 	Secreted (curated)	NXPE family member 4 
+Q540C2	Mus musculus 	Secreted (curated)	Interferon alpha 4 (Precursor) 
+Q541G7	Mus musculus 	Secreted (curated)	Urotensin 2 
+Q543U6	Mus musculus 	Secreted (curated)	Prepronociceptin 
+Q544K5	Mus musculus 	Secreted (curated)	C-type natriuretic peptide 
+Q544U0	Mus musculus 	Secreted (curated)	Leptin 
+Q544X5	Mus musculus 	Secreted (curated)	Growth hormone releasing hormone 
+Q545I7	Mus musculus 	Secreted (curated)	Insulin 1 
+Q545M1	Mus musculus 	Secreted (curated)	Insulin-like 6 
+Q547V2	Mus musculus 	Secreted (curated)	Insulin-like growth factor 1 
+Q548V9	Mus musculus 	Secreted (curated)	Chemokine (C-X-C motif) ligand 10 
+Q54AE9	Mus musculus 	Secreted (curated)	Brain natriuretic peptide 
+Q569E4	Mus musculus 	Secreted (curated)	Protein MENT 
+Q56VR2	Mus musculus 	Secreted (curated)	Interferon alpha gene 13 (Fragment) 
+Q571E5	Mus musculus 	Secreted (curated)	Serine protease 53 
+Q58EV2	Mus musculus 	Secreted (curated)	Apoa1 protein 
+Q5BKQ4	Mus musculus 	Secreted (curated)	Inactive pancreatic lipase-related protein 1 
+Q5DQQ6	Mus musculus 	Secreted (curated)	WAP four-disulfide core domain protein 13 
+Q5DRQ8	Mus musculus 	Cytoplasm, ER, Secreted (curated)	Fc receptor-like B 
+Q5DTL5	Mus musculus 	Secreted (curated)	MKIAA4141 protein (Fragment) 
+Q5EEX1	Mus musculus 	Secreted (curated)	Insulin II 
+Q5F267	Mus musculus 	Cytoplasm, Secreted (curated)	Tumor protein p53-inducible protein 13 
+Q5F2F2	Mus musculus 	Secreted (curated)	Abhydrolase domain-containing protein 15 
+Q5FW60	Mus musculus 	Secreted (curated)	Major urinary protein 20 
+Q5FW85	Mus musculus 	Secreted (curated)	Extracellular matrix protein 2 
+Q5G864	Mus musculus 	Secreted (curated)	Alpha-defensin 25 
+Q5G865	Mus musculus 	Secreted (curated)	Alpha-defensin 24 
+Q5G866	Mus musculus 	Secreted (curated)	Alpha-defensin 23 
+Q5GAM7	Mus musculus 	Secreted (curated)	Probable inactive ribonuclease-like protein 13 
+Q5GAM8	Mus musculus 	Secreted (curated)	Probable inactive ribonuclease-like protein 12 
+Q5GAM9	Mus musculus 	Secreted (curated)	Putative inactive ribonuclease 11 
+Q5H8A1	Mus musculus 	Secreted (curated)	Neuromedin-S 
+Q5H8B9	Mus musculus 	Secreted (curated)	FRAS1-related extracellular matrix protein 3 
+Q5K2P8	Mus musculus 	GPI anchored, Secreted (curated)	Polyserase-2 
+Q5MJS3	Mus musculus 	Secreted (curated)	Extracellular serine/threonine protein kinase FAM20C 
+Q5NCP0	Mus musculus 	ER (membrane), Nucleus (membrane), Secreted (curated)	E3 ubiquitin-protein ligase RNF43 
+Q5QNQ9	Mus musculus 	Secreted (curated)	Collagen alpha-1(XXVII) chain 
+Q5RL10	Mus musculus 	Secreted (curated)	Insulin-like 3 
+Q5S248	Mus musculus 	Secreted (curated)	Transmembrane protease serine 11E 
+Q5SS80	Mus musculus 	Secreted (curated)	Dehydrogenase/reductase SDR family member 13 
+Q5SSH8	Mus musculus 	Secreted (curated)	Neuferricin 
+Q5STE3	Mus musculus 	Secreted (curated)	Follistatin-related protein 4 
+Q5SVL8	Mus musculus 	Secreted (curated)	Protein Prl2c1 (Fragment) 
+Q5SVL9	Mus musculus 	Secreted (curated)	Protein Prl2c1 
+Q5SVM0	Mus musculus 	Secreted (curated)	Protein Prl2c1 
+Q5SVM1	Mus musculus 	Secreted (curated)	Protein Prl2c1 
+Q5SVM4	Mus musculus 	Secreted (curated)	Prolactin family 7, subfamily d, member 1 
+Q5SXG7	Mus musculus 	Secreted (curated)	Vitelline membrane outer layer protein 1 homolog 
+Q5SXJ8	Mus musculus 	Secreted (curated)	Prolactin-6A1 
+Q5SXK2	Mus musculus 	Secreted (curated)	Prolactin-2B1 
+Q5SY42	Mus musculus 	Secreted (curated)	MCG20377, isoform CRA_a 
+Q5SYL3	Mus musculus 	Secreted (curated)	UPF0378 protein KIAA0100 
+Q5SZY3	Mus musculus 	Secreted (curated)	Chorionic somatomammotropin hormone 2 
+Q5SZY7	Mus musculus 	Secreted (curated)	Protein Prl3d2 
+Q5U5W9	Mus musculus 	Secreted (curated)	Cxcl1 protein (Fragment) 
+Q5U901	Mus musculus 	Secreted (curated)	Carboxypeptidase A6 
+Q5UW37	Mus musculus 	Secreted (curated)	VEGF coregulated chemokine 1 
+Q60571	Mus musculus 	Secreted (curated)	Corticotropin-releasing factor-binding protein 
+Q60590	Mus musculus 	Secreted (curated)	Alpha-1-acid glycoprotein 1 
+Q60675	Mus musculus 	Secreted (curated)	Laminin subunit alpha-2 
+Q60687	Mus musculus 	Secreted (curated)	Follitropin subunit beta 
+Q60696	Mus musculus 	Secreted (curated)	Melanocyte protein PMEL 
+Q60753	Mus musculus 	Secreted (curated)	Cardiotrophin-1 
+Q60819	Mus musculus 	Secreted (curated)	Interleukin-15 receptor subunit alpha 
+Q60841	Mus musculus 	Secreted (curated)	Reelin 
+Q60847	Mus musculus 	Secreted (curated)	Collagen alpha-1(XII) chain 
+Q60963	Mus musculus 	Secreted (curated)	Platelet-activating factor acetylhydrolase 
+Q60994	Mus musculus 	Secreted (curated)	Adiponectin 
+Q60997	Mus musculus 	Cytoplasm, Secreted (curated)	Deleted in malignant brain tumors 1 protein 
+Q61001	Mus musculus 	Secreted (curated)	Laminin subunit alpha-5 
+Q61087	Mus musculus 	Secreted (curated)	Laminin subunit beta-3 
+Q61092	Mus musculus 	Secreted (curated)	Laminin subunit gamma-2 
+Q61114	Mus musculus 	Secreted (curated)	BPI fold-containing family B member 1 
+Q61129	Mus musculus 	Secreted (curated)	Complement factor I 
+Q61147	Mus musculus 	Secreted (curated)	Ceruloplasmin 
+Q61199	Mus musculus 	Secreted (curated)	Neurexophilin-2 
+Q61200	Mus musculus 	Secreted (curated)	Neurexophilin-1 
+Q61207	Mus musculus 	Secreted (curated)	Sulfated glycoprotein 1 
+Q61220	Mus musculus 	Secreted (curated)	Protein kinase C-binding protein NELL2 
+Q61245	Mus musculus 	Secreted (curated)	Collagen alpha-1(XI) chain 
+Q61247	Mus musculus 	Secreted (curated)	Alpha-2-antiplasmin 
+Q61268	Mus musculus 	Secreted (curated)	Apolipoprotein C-IV 
+Q61282	Mus musculus 	Secreted (curated)	Aggrecan core protein 
+Q61292	Mus musculus 	Secreted (curated)	Laminin subunit beta-2 
+Q61361	Mus musculus 	Secreted (curated)	Brevican core protein 
+Q61362	Mus musculus 	Secreted (curated)	Chitinase-3-like protein 1 
+Q61398	Mus musculus 	Secreted (curated)	Procollagen C-endopeptidase enhancer 1 
+Q61400	Mus musculus 	Secreted (curated)	Carcinoembryonic antigen-related cell adhesion molecule 10 
+Q61468	Mus musculus 	GPI anchored, Secreted (curated)	Mesothelin 
+Q61477	Mus musculus 	Secreted (curated)	Neuroblastoma suppressor of tumorigenicity 1 
+Q61488	Mus musculus 	Secreted (curated)	Desert hedgehog protein 
+Q61508	Mus musculus 	Secreted (curated)	Extracellular matrix protein 1 
+Q61554	Mus musculus 	Secreted (curated)	Fibrillin-1 
+Q61555	Mus musculus 	Secreted (curated)	Fibrillin-2 
+Q61581	Mus musculus 	Secreted (curated)	Insulin-like growth factor-binding protein 7 
+Q61592	Mus musculus 	Secreted (curated)	Growth arrest-specific protein 6 
+Q61646	Mus musculus 	Secreted (curated)	Haptoglobin 
+Q61702	Mus musculus 	Secreted (curated)	Inter-alpha-trypsin inhibitor heavy chain H1 
+Q61703	Mus musculus 	Secreted (curated)	Inter-alpha-trypsin inhibitor heavy chain H2 
+Q61704	Mus musculus 	Secreted (curated)	Inter-alpha-trypsin inhibitor heavy chain H3 
+Q61711	Mus musculus 	Secreted (curated)	Bone sialoprotein 2 
+Q61716	Mus musculus 	Secreted (curated)	Interferon alpha-11 
+Q61718	Mus musculus 	Secreted (curated)	Alpha-interferon (Precursor) 
+Q61719	Mus musculus 	Secreted (curated)	Interferon alpha B (Precursor) 
+Q61730	Mus musculus 	Secreted (curated)	Interleukin-1 receptor accessory protein 
+Q61789	Mus musculus 	Secreted (curated)	Laminin subunit alpha-3 
+Q61805	Mus musculus 	Secreted (curated)	Lipopolysaccharide-binding protein 
+Q61810	Mus musculus 	Secreted (curated)	Latent-transforming growth factor beta-binding protein 3 
+Q61838	Mus musculus 	Secreted (curated)	Alpha-2-macroglobulin 
+Q61839	Mus musculus 	Secreted (curated)	C-type natriuretic peptide 
+Q61865	Mus musculus 	Secreted (curated)	Melanoma-derived growth regulatory protein 
+Q61900	Mus musculus 	Secreted (curated)	Submaxillary gland androgen-regulated protein 3A 
+Q61955	Mus musculus 	Cytoplasm, Secreted (curated)	Kallikrein-8 
+Q62000	Mus musculus 	Secreted (curated)	Mimecan 
+Q62009	Mus musculus 	Golgi apparatus, Secreted (curated)	Periostin 
+Q62028	Mus musculus 	Secreted (curated)	Secretory phospholipase A2 receptor 
+Q62059	Mus musculus 	Secreted (curated)	Versican core protein 
+Q62087	Mus musculus 	Secreted (curated)	Serum paraoxonase/lactonase 3 
+Q62177	Mus musculus 	Secreted (curated)	Semaphorin-3B 
+Q62181	Mus musculus 	Secreted (curated)	Semaphorin-3C 
+Q62230	Mus musculus 	Secreted (curated)	Sialoadhesin 
+Q62238	Mus musculus 	Secreted (curated)	Sex-limited protein Slp(w7) alpha-gamma chain (Fragment) 
+Q62288	Mus musculus 	Secreted (curated)	Testican-1 
+Q62356	Mus musculus 	Secreted (curated)	Follistatin-related protein 1 
+Q62361	Mus musculus 	Secreted (curated)	Pro-thyrotropin-releasing hormone 
+Q62381	Mus musculus 	Secreted (curated)	Tolloid-like protein 1 
+Q62386	Mus musculus 	Secreted (curated)	Interleukin-17A 
+Q62395	Mus musculus 	Secreted (curated)	Trefoil factor 3 
+Q62401	Mus musculus 	Secreted (curated)	C-C motif chemokine 12 
+Q62471	Mus musculus 	Secreted (curated)	Vomeronasal secretory protein 1 
+Q62472	Mus musculus 	Secreted (curated)	Vomeronasal secretory protein 2 
+Q62507	Mus musculus 	Secreted (curated)	Cochlin 
+Q62522	Mus musculus 	Secreted (curated)	Zona pellucida-binding protein 1 
+Q62556	Mus musculus 	Secreted (curated)	Butyrophilin subfamily 1 member A1 
+Q63805	Mus musculus 	Secreted (curated)	Alpha-1-acid glycoprotein 3 
+Q63870	Mus musculus 	Secreted (curated)	Collagen alpha-1(VII) chain 
+Q64016	Mus musculus 	Secreted (curated)	Alpha-defensin 17 (Fragment) 
+Q640P2	Mus musculus 	Secreted (curated)	Angiopoietin-related protein 1 
+Q64263	Mus musculus 	Secreted (curated)	Alpha-defensin-related sequence 10 
+Q64280	Mus musculus 	Secreted (curated)	Left-right determination factor 1 
+Q64285	Mus musculus 	Secreted (curated)	Bile salt-activated lipase 
+Q64299	Mus musculus 	Secreted (curated)	Protein NOV homolog 
+Q64339	Mus musculus 	Cytoplasm, Secreted (curated)	Ubiquitin-like protein ISG15 
+Q64356	Mus musculus 	Secreted (curated)	Seminal vesicle secretory protein 6 
+Q64387	Mus musculus 	Secreted (curated)	Prepronociceptin 
+Q64438	Mus musculus 	Nucleus (membrane), Secreted (curated)	Angiogenin-2 
+Q64442	Mus musculus 	Mitochondria (membrane), Plasma membrane, Secreted (curated)	Sorbitol dehydrogenase 
+Q64527	Mus musculus 	Secreted (curated)	Protein Wnt-8a 
+Q64685	Mus musculus 	Golgi apparatus (membrane), Secreted (curated)	Beta-galactoside alpha-2,6-sialyltransferase 1 
+Q64726	Mus musculus 	Secreted (curated)	Zinc-alpha-2-glycoprotein 
+Q64739	Mus musculus 	Secreted (curated)	Collagen alpha-2(XI) chain 
+Q66K08	Mus musculus 	Secreted (curated)	Cartilage intermediate layer protein 1 
+Q66PY1	Mus musculus 	Secreted (curated)	Signal peptide, CUB and EGF-like domain-containing protein 3 
+Q67E05	Mus musculus 	Cytoplasm, Nucleus (membrane), Secreted (curated)	Bactericidal permeability-increasing protein 
+Q684R7	Mus musculus 	Secreted (curated)	FRAS1-related extracellular matrix protein 1 
+Q68SA9	Mus musculus 	Secreted (curated)	A disintegrin and metalloproteinase with thrombospondin motifs 7 
+Q69Z26	Mus musculus 	GPI anchored, Secreted (curated)	Contactin-4 
+Q69Z28	Mus musculus 	Secreted (curated)	A disintegrin and metalloproteinase with thrombospondin motifs 16 
+Q69ZU6	Mus musculus 	Secreted (curated)	Thrombospondin type-1 domain-containing protein 7A 
+Q6AW46	Mus musculus 	GPI anchored, Secreted (curated)	Carboxylesterase 5A 
+Q6B9Z0	Mus musculus 	Secreted (curated)	Insulin growth factor-like family member 
+Q6DFV8	Mus musculus 	Secreted (curated)	von Willebrand factor D and EGF domain-containing protein 
+Q6DFY8	Mus musculus 	Secreted (curated)	BMP/retinoic acid-inducible neural-specific protein 2 
+Q6DYE8	Mus musculus 	Plasma membrane, Secreted (curated)	Ectonucleotide pyrophosphatase/phosphodiesterase family member 3 
+Q6EAL8	Mus musculus 	Secreted (curated)	Interleukin-31 
+Q6GQT1	Mus musculus 	Secreted (curated)	Alpha-2-macroglobulin-P 
+Q6GSF5	Mus musculus 	Secreted (curated)	Gastrin 
+Q6GTX3	Mus musculus 	Secreted (curated)	Apoe protein 
+Q6GU68	Mus musculus 	GPI anchored, Secreted (curated)	Immunoglobulin superfamily containing leucine-rich repeat protein 
+Q6GUQ1	Mus musculus 	Secreted (curated)	Epidermal growth factor-like protein 8 
+Q6GXA8	Mus musculus 	Secreted (curated)	Tissue inhibitor of metalloproteinase 2 (Fragment) 
+Q6GXA9	Mus musculus 	Secreted (curated)	Tissue inhibitor of metalloproteinase 1 (Fragment) 
+Q6IE32	Mus musculus 	Secreted (curated)	Serine protease inhibitor Kazal-type 7 
+Q6IR41	Mus musculus 	Secreted (curated)	Complement C1q tumor necrosis factor-related protein 6 
+Q6JHY2	Mus musculus 	Secreted (curated)	Submandibular gland protein C 
+Q6JVL5	Mus musculus 	Secreted (curated)	Epididymal-specific lipocalin-12 
+Q6LCS9	Mus musculus 	Secreted (curated)	Protein Wnt (Fragment) 
+Q6NVD0	Mus musculus 	Secreted (curated)	FRAS1-related extracellular matrix protein 2 
+Q6NZC0	Mus musculus 	Secreted (curated)	Adam10 protein (Fragment) 
+Q6NZE9	Mus musculus 	Secreted (curated)	Protein Wnt 
+Q6NZL8	Mus musculus 	Secreted (curated)	Signal peptide, CUB and EGF-like domain-containing protein 1 
+Q6NZR1	Mus musculus 	Secreted (curated)	Protein Wnt 
+Q6P215	Mus musculus 	Secreted (curated)	Prolactin family 2, subfamily c, member 2 
+Q6P244	Mus musculus 	Secreted (curated)	Prolactin family 3, subfamily d, member 1 
+Q6P253	Mus musculus 	Secreted (curated)	Dermokine 
+Q6P3Y0	Mus musculus 	Secreted (curated)	C4a protein (Fragment) 
+Q6P3Y9	Mus musculus 	Secreted (curated)	Podocan-like protein 1 
+Q6P4P1	Mus musculus 	Secreted (curated)	Serine protease inhibitor A3A 
+Q6P8K8	Mus musculus 	Secreted (curated)	Carboxypeptidase A4 
+Q6P8R3	Mus musculus 	Secreted (curated)	Pf4 protein 
+Q6P8U6	Mus musculus 	Secreted (curated)	Pancreatic triacylglycerol lipase 
+Q6P907	Mus musculus 	Secreted (curated)	Adam3 protein 
+Q6PAL1	Mus musculus 	Secreted (curated)	Draxin 
+Q6PB93	Mus musculus 	Golgi apparatus (membrane), Secreted (curated)	Polypeptide N-acetylgalactosaminyltransferase 2 
+Q6PDY6	Mus musculus 	Secreted (curated)	Protein Wnt (Fragment) 
+Q6PE55	Mus musculus 	Secreted (curated)	Platelet-derived growth factor receptor-like protein 
+Q6PGN1	Mus musculus 	Secreted (curated)	Protein FAM132B 
+Q6PHU5	Mus musculus 	ER (membrane), Golgi apparatus (membrane), Lysosome (membrane), Nucleus (membrane), Plasma membrane, Secreted (curated)	Sortilin 
+Q6PZE0	Mus musculus 	Secreted (curated)	Mucin-19 
+Q6Q473	Mus musculus 	Secreted (curated)	Calcium-activated chloride channel regulator 4 
+Q6QIY3	Mus musculus 	Secreted (curated)	Sodium channel protein type 10 subunit alpha 
+Q6RUU0	Mus musculus 	Secreted (curated)	Pentraxin-4 
+Q6S5C2	Mus musculus 	Golgi apparatus, Secreted (curated)	N-acetylglucosamine-1-phosphotransferase subunit gamma 
+Q6TU36	Mus musculus 	Secreted (curated)	Beta-defensin 50 
+Q6UGQ3	Mus musculus 	Secreted (curated)	Secretoglobin family 2B member 2 
+Q6W5C0	Mus musculus 	Secreted (curated)	C-X-C motif chemokine 3 
+Q6X786	Mus musculus 	Secreted (curated)	Zona pellucida-binding protein 2 
+Q6XL62	Mus musculus 	Secreted (curated)	Interferon alpha 15 (Precursor) 
+Q6Y4S4	Mus musculus 	Secreted (curated)	Metastasis-suppressor KiSS-1 
+Q6YGZ1	Mus musculus 	Golgi apparatus (membrane), Lysosome (membrane), Nucleus (membrane), Secreted (curated)	Heparanase 
+Q70E20	Mus musculus 	Secreted (curated)	Sushi, nidogen and EGF-like domain-containing protein 1 
+Q70KL2	Mus musculus 	Secreted (curated)	Beta-defensin 40 
+Q70KL3	Mus musculus 	Secreted (curated)	Beta-defensin 39 
+Q70UZ7	Mus musculus 	Secreted (curated)	von Willebrand factor A domain-containing protein 2 
+Q71KU9	Mus musculus 	Secreted (curated)	Fibrinogen-like protein 1 
+Q71U12	Mus musculus 	Secreted (curated)	Metalloproteinase-disintegrin domain containing protein TECADAM 
+Q71V74	Mus musculus 	Secreted (curated)	Protein Wnt (Fragment) 
+Q765I1	Mus musculus 	Secreted (curated)	Urotensin-2B 
+Q769J6	Mus musculus 	Secreted (curated)	A disintegrin and metalloproteinase with thrombospondin motifs 13 
+Q76LW6	Mus musculus 	Secreted (curated)	DAN domain family member 5 
+Q78IK4	Mus musculus 	Secreted (curated)	Apolipoprotein O-like 
+Q78Y73	Mus musculus 	Secreted (curated)	Placental prolactin-like protein-I 
+Q790R4	Mus musculus 	Secreted (curated)	Chemokine (C-X-C motif) ligand 5 
+Q794A8	Mus musculus 	Secreted (curated)	Natriuretic peptide 
+Q7M742	Mus musculus 	Secreted (curated)	Secretoglobin family 1C member 1 
+Q7M747	Mus musculus 	Secreted (curated)	Secretoglobin family 2B member 24 
+Q7M756	Mus musculus 	Secreted (curated)	Inactive serine protease 54 
+Q7M759	Mus musculus 	Secreted (curated)	Alpha/beta hydrolase domain-containing protein 17B 
+Q7M761	Mus musculus 	Secreted (curated)	Ovochymase-2 
+Q7TMD2	Mus musculus 	Secreted (curated)	Beta-defensin 37 
+Q7TMF5	Mus musculus 	Secreted (curated)	Serpin A12 
+Q7TN16	Mus musculus 	Secreted (curated)	Hedgehog-interacting protein 
+Q7TN22	Mus musculus 	Secreted (curated)	Thioredoxin domain-containing protein 16 
+Q7TN31	Mus musculus 	Cytoplasm, Secreted (curated)	Angiogenic factor with G patch and FHA domains 1 
+Q7TND2	Mus musculus 	Secreted (curated)	Prolactin family 2, subfamily c, member 2 
+Q7TNI7	Mus musculus 	Secreted (curated)	Interleukin-17F 
+Q7TNK8	Mus musculus 	Secreted (curated)	ADM2 
+Q7TNR6	Mus musculus 	GPI anchored, Secreted (curated)	Immunoglobulin superfamily member 21 
+Q7TNV7	Mus musculus 	Secreted (curated)	Beta-defensin 38 
+Q7TNV8	Mus musculus 	Secreted (curated)	Beta-defensin 34 
+Q7TNV9	Mus musculus 	Secreted (curated)	Beta-defensin 14 
+Q7TPC1	Mus musculus 	Secreted (curated)	Corneodesmosin 
+Q7TPG5	Mus musculus 	Secreted (curated)	Protein FAM19A4 
+Q7TPG6	Mus musculus 	Secreted (curated)	Protein FAM19A3 
+Q7TPG8	Mus musculus 	Secreted (curated)	Protein FAM19A1 
+Q7TPZ8	Mus musculus 	Secreted (curated)	Carboxypeptidase A1 
+Q7TQ62	Mus musculus 	Secreted (curated)	Podocan 
+Q7TQA1	Mus musculus 	Secreted (curated)	Immunoglobulin superfamily member 1 
+Q7TQN3	Mus musculus 	Secreted (curated)	WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 2 
+Q7TSK2	Mus musculus 	Cytoplasm, Secreted (curated)	Seizure protein 6 
+Q7TSK7	Mus musculus 	Secreted (curated)	ADAMTS-like protein 2 
+Q7TSL0	Mus musculus 	Secreted (curated)	Interferon kappa 
+Q7TSQ1	Mus musculus 	Secreted (curated)	C-type lectin domain family 18 member A 
+Q80SS5	Mus musculus 	Secreted (curated)	Interferon alpha-12 
+Q80SU4	Mus musculus 	Secreted (curated)	Interferon alpha-13 
+Q80T03	Mus musculus 	Secreted (curated)	Mucin-6 
+Q80T14	Mus musculus 	Secreted (curated)	Extracellular matrix protein FRAS1 
+Q80T19	Mus musculus 	Secreted (curated)	Hepcidin-2 
+Q80T21	Mus musculus 	Secreted (curated)	ADAMTS-like protein 4 
+Q80TR4	Mus musculus 	Secreted (curated)	Slit homolog 1 protein 
+Q80UB0	Mus musculus 	Secreted (curated)	Testin-2 
+Q80UG6	Mus musculus 	Secreted (curated)	Protein FAM150B 
+Q80V70	Mus musculus 	Secreted (curated)	Multiple epidermal growth factor-like domains protein 6 
+Q80VM9	Mus musculus 	Secreted (curated)	Otopetrin-1 
+Q80VU4	Mus musculus 	Secreted (curated)	Neurotrophin-4 
+Q80W15	Mus musculus 	Secreted (curated)	Insulin-like growth factor-binding protein-like 1 
+Q80W65	Mus musculus 	Cytoplasm, ER, Golgi apparatus, Lysosome, Secreted (curated)	Proprotein convertase subtilisin/kexin type 9 
+Q80WM4	Mus musculus 	Secreted (curated)	Hyaluronan and proteoglycan link protein 4 
+Q80WM5	Mus musculus 	Secreted (curated)	Hyaluronan and proteoglycan link protein 3 
+Q80WM7	Mus musculus 	Secreted (curated)	Serine protease 33 
+Q80X19	Mus musculus 	Secreted (curated)	Collagen alpha-1(XIV) chain 
+Q80XD8	Mus musculus 	Secreted (curated)	Proline-rich acidic protein 1 
+Q80XF5	Mus musculus 	Secreted (curated)	Interleukin-22 receptor subunit alpha-2 
+Q80YC5	Mus musculus 	Secreted (curated)	Coagulation factor XII 
+Q80YT5	Mus musculus 	Secreted (curated)	Spermatogenesis-associated protein 20 
+Q80YX1	Mus musculus 	Secreted (curated)	Tenascin 
+Q80Z19	Mus musculus 	Secreted (curated)	Mucin-2 (Fragments) 
+Q80Z71	Mus musculus 	Secreted (curated)	Tenascin-N 
+Q80ZA0	Mus musculus 	Secreted (curated)	Intelectin-1b 
+Q80ZC9	Mus musculus 	Secreted (curated)	Psoriasis susceptibility 1 candidate gene 2 protein homolog 
+Q80ZF2	Mus musculus 	Secreted (curated)	Interferon epsilon 
+Q80ZN5	Mus musculus 	Cytoplasm, Secreted (curated)	Cystatin-13 
+Q80ZS9	Mus musculus 	Secreted (curated)	Sct protein 
+Q80ZU7	Mus musculus 	Secreted (curated)	BPI fold-containing family B member 3 
+Q80ZW2	Mus musculus 	Secreted (curated)	Protein THEM6 
+Q810G0	Mus musculus 	Secreted (curated)	Interferon zeta 
+Q810G1	Mus musculus 	Secreted (curated)	Interferon alpha 6T (Precursor) 
+Q810G2	Mus musculus 	Secreted (curated)	Interferon alpha 5 (Precursor) 
+Q810G3	Mus musculus 	Secreted (curated)	Interferon alpha 14 (Precursor) 
+Q810G4	Mus musculus 	Secreted (curated)	Interferon alpha 11 (Precursor) 
+Q810G5	Mus musculus 	Secreted (curated)	Interferon alpha 8/6 (Precursor) 
+Q810G6	Mus musculus 	Secreted (curated)	Interferon alpha 7 (Precursor) 
+Q810H5	Mus musculus 	Secreted (curated)	Galanin-like peptide 
+Q810I7	Mus musculus 	Secreted (curated)	Apoa4 protein 
+Q810Z1	Mus musculus 	Secreted (curated)	Epididymal-specific lipocalin-10 
+Q811B3	Mus musculus 	Secreted (curated)	A disintegrin and metalloproteinase with thrombospondin motifs 12 
+Q812B2	Mus musculus 	Secreted (curated)	Glycoprotein hormone beta-5 
+Q812G0	Mus musculus 	Secreted (curated)	Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A 
+Q8BFQ8	Mus musculus 	Secreted (curated)	Parkinson disease 7 domain-containing protein 1 
+Q8BFR2	Mus musculus 	Secreted (curated)	Follistatin-related protein 5 
+Q8BFU0	Mus musculus 	Secreted (curated)	R-spondin-2 
+Q8BGC9	Mus musculus 	Secreted (curated)	Protein CREG2 
+Q8BGU2	Mus musculus 	Secreted (curated)	Cerebellin-2 
+Q8BGW9	Mus musculus 	Secreted (curated)	Beta-defensin 29 
+Q8BGY3	Mus musculus 	Secreted (curated)	Leucine zipper protein 2 
+Q8BH34	Mus musculus 	Secreted (curated)	Semaphorin-3D 
+Q8BH35	Mus musculus 	Secreted (curated)	Complement component C8 beta chain 
+Q8BH61	Mus musculus 	Cytoplasm, Secreted (curated)	Coagulation factor XIII A chain 
+Q8BH89	Mus musculus 	Secreted (curated)	WAP four-disulfide core domain protein 15A 
+Q8BHA9	Mus musculus 	Secreted (curated)	Acid phosphatase-like protein 2 
+Q8BHE5	Mus musculus 	Secreted (curated)	Bone morphogenetic protein 3 
+Q8BHK1	Mus musculus 	Secreted (curated)	Magnesium transporter NIPA1 
+Q8BHP7	Mus musculus 	Secreted (curated)	Olfactomedin-like protein 2A 
+Q8BHR2	Mus musculus 	Plasma membrane, Secreted (curated)	Ecto-NOX disulfide-thiol exchanger 1 
+Q8BIF0	Mus musculus 	Secreted (curated)	CD99 antigen-like protein 2 
+Q8BIS8	Mus musculus 	Secreted (curated)	Coiled-coil domain-containing protein 126 
+Q8BJ66	Mus musculus 	Secreted (curated)	Kazal-type serine protease inhibitor domain-containing protein 1 
+Q8BJ73	Mus musculus 	Secreted (curated)	R-spondin-4 
+Q8BJD1	Mus musculus 	Secreted (curated)	Inter-alpha-trypsin inhibitor heavy chain H5 
+Q8BJR6	Mus musculus 	GPI anchored, Secreted (curated)	Serine protease 27 
+Q8BJT8	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q8BK24	Mus musculus 	Secreted (curated)	Putative uncharacterized protein (Fragment) 
+Q8BK62	Mus musculus 	Secreted (curated)	Olfactomedin-like protein 3 
+Q8BKV0	Mus musculus 	Secreted (curated)	Testican-3 
+Q8BKV1	Mus musculus 	GPI anchored, Secreted (curated)	Glypican-2 
+Q8BLI0	Mus musculus 	Secreted (curated)	ADAMTS-like protein 1 
+Q8BLT2	Mus musculus 	Secreted (curated)	Protein Wnt (Fragment) 
+Q8BLX7	Mus musculus 	Secreted (curated)	Collagen alpha-1(XVI) chain 
+Q8BLY1	Mus musculus 	Secreted (curated)	SPARC-related modular calcium-binding protein 1 
+Q8BM13	Mus musculus 	Secreted (curated)	Noelin-2 
+Q8BM14	Mus musculus 	Secreted (curated)	Lipase member K 
+Q8BM15	Mus musculus 	Secreted (curated)	Uncharacterized protein C6orf15 homolog 
+Q8BM89	Mus musculus 	Secreted (curated)	Arylsulfatase J 
+Q8BME9	Mus musculus 	Secreted (curated)	Cerebellin-4 
+Q8BMS2	Mus musculus 	Secreted (curated)	Spondin-2 
+Q8BMY7	Mus musculus 	Secreted (curated)	Serine protease inhibitor Kazal-type 2 
+Q8BND5	Mus musculus 	Secreted (curated)	Sulfhydryl oxidase 1 
+Q8BNJ2	Mus musculus 	Secreted (curated)	A disintegrin and metalloproteinase with thrombospondin motifs 4 
+Q8BNL4	Mus musculus 	Secreted (curated)	MCG20377, isoform CRA_b 
+Q8BPB5	Mus musculus 	Secreted (curated)	EGF-containing fibulin-like extracellular matrix protein 1 
+Q8BPP5	Mus musculus 	Secreted (curated)	Ly6/PLAUR domain-containing protein 6 
+Q8BQ47	Mus musculus 	Secreted (curated)	Protein canopy homolog 4 
+Q8BQB4	Mus musculus 	Secreted (curated)	Four-jointed box protein 1 
+Q8BQD1	Mus musculus 	Secreted (curated)	Protein Wnt 
+Q8BQH6	Mus musculus 	Secreted (curated)	CUB domain-containing protein 2 
+Q8BQT1	Mus musculus 	Secreted (curated)	Protein Ifnz 
+Q8BR21	Mus musculus 	Secreted (curated)	Protein FAM180A 
+Q8BR86	Mus musculus 	Secreted (curated)	Kin of IRRE-like protein 3 
+Q8BRC7	Mus musculus 	Secreted (curated)	Protein Wnt 
+Q8BRT3	Mus musculus 	Secreted (curated)	Protein Wnt 
+Q8BS03	Mus musculus 	Secreted (curated)	Peptidase inhibitor 15 
+Q8BSJ3	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q8BT12	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q8BT20	Mus musculus 	Secreted (curated)	Serine protease inhibitor Kazal-type 6 
+Q8BTC1	Mus musculus 	Secreted (curated)	Uncharacterized protein C12orf73 homolog 
+Q8BTE0	Mus musculus 	Secreted (curated)	UPF0369 protein C6orf57 homolog 
+Q8BTG6	Mus musculus 	Secreted (curated)	UPF0454 protein C12orf49 homolog 
+Q8BU25	Mus musculus 	Secreted (curated)	Inactive serine protease PAMR1 
+Q8BU51	Mus musculus 	Secreted (curated)	BPI fold-containing family B member 6 
+Q8BUE7	Mus musculus 	Secreted (curated)	Mucin-20 
+Q8BV57	Mus musculus 	Cytoplasm, Secreted (curated)	Soluble scavenger receptor cysteine-rich domain-containing protein SSC5D 
+Q8BVC1	Mus musculus 	Secreted (curated)	Beta-defensin 126 
+Q8BVD7	Mus musculus 	Secreted (curated)	Complement C1q tumor necrosis factor-related protein 7 
+Q8BVR6	Mus musculus 	Secreted (curated)	RING finger and SPRY domain-containing protein 1 
+Q8BVU0	Mus musculus 	Secreted (curated)	Leucine-rich repeat and calponin homology domain-containing protein 3 
+Q8BVZ5	Mus musculus 	Cytoplasm, Nucleus, Secreted (curated)	Interleukin-33 
+Q8BW11	Mus musculus 	Secreted (curated)	Putative inactive serine protease 58 
+Q8BWU3	Mus musculus 	Secreted (curated)	Protein FAM131A 
+Q8BX37	Mus musculus 	Secreted (curated)	Iron/zinc purple acid phosphatase-like protein 
+Q8BYI9	Mus musculus 	Secreted (curated)	Tenascin-R 
+Q8BYY9	Mus musculus 	Secreted (curated)	Serine protease inhibitor A3B 
+Q8BZ64	Mus musculus 	Cytoplasm, Cytoskeleton, Secreted (curated)	Tectonic-1 
+Q8BZE1	Mus musculus 	Secreted (curated)	Putative DMBT1-like protein 
+Q8BZH1	Mus musculus 	Secreted (curated)	Protein-glutamine gamma-glutamyltransferase 4 
+Q8BZQ2	Mus musculus 	Secreted (curated)	Cysteine-rich secretory protein LCCL domain-containing 2 
+Q8C0F9	Mus musculus 	Secreted (curated)	Inactive serine protease 35 
+Q8C119	Mus musculus 	Secreted (curated)	Protein NDNF 
+Q8C165	Mus musculus 	Secreted (curated)	Probable carboxypeptidase PM20D1 
+Q8C186	Mus musculus 	Secreted (curated)	BPI fold-containing family C protein 
+Q8C1A9	Mus musculus 	Secreted (curated)	Uncharacterized protein C4orf29 homolog 
+Q8C1C1	Mus musculus 	Secreted (curated)	Proactivator polypeptide-like 1 
+Q8C1E1	Mus musculus 	Secreted (curated)	BPI fold-containing family B member 2 
+Q8C1G4	Mus musculus 	Secreted (curated)	Beta-defensin 41 
+Q8C1N8	Mus musculus 	Secreted (curated)	Alpha-defensin 22 
+Q8C1P2	Mus musculus 	Secreted (curated)	Alpha-defensin 21 
+Q8C1Q4	Mus musculus 	Secreted (curated)	Meteorin 
+Q8C1W1	Mus musculus 	Secreted (curated)	Vasohibin-1 
+Q8C3I9	Mus musculus 	Secreted (curated)	Deleted in autism-related protein 1 homolog 
+Q8C4U3	Mus musculus 	Secreted (curated)	Secreted frizzled-related protein 1 
+Q8C522	Mus musculus 	Secreted (curated)	Endonuclease domain-containing 1 protein 
+Q8C577	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q8C5Z4	Mus musculus 	Secreted (curated)	Beta-defensin 
+Q8C6C9	Mus musculus 	Secreted (curated)	UPF0762 protein C6orf58 homolog 
+Q8C6K9	Mus musculus 	Secreted (curated)	Collagen alpha-6(VI) chain 
+Q8C6P4	Mus musculus 	Secreted (curated)	Protein Wnt 
+Q8C718	Mus musculus 	Secreted (curated)	Protein Wnt 
+Q8C7G5	Mus musculus 	Secreted (curated)	Apolipoprotein A-V 
+Q8C7K6	Mus musculus 	Secreted (curated)	Prenylcysteine oxidase-like 
+Q8C7V8	Mus musculus 	Secreted (curated)	Coiled-coil domain-containing protein 134 
+Q8C8N3	Mus musculus 	Secreted (curated)	Brorin 
+Q8C9B8	Mus musculus 	Secreted (curated)	Putative uncharacterized protein (Fragment) 
+Q8C9W3	Mus musculus 	Secreted (curated)	A disintegrin and metalloproteinase with thrombospondin motifs 2 
+Q8CAG3	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q8CAL5	Mus musculus 	Secreted (curated)	Glypican-5 
+Q8CAR0	Mus musculus 	Secreted (curated)	Insulin-like growth factor I 
+Q8CB14	Mus musculus 	Secreted (curated)	Lung adenoma susceptibility protein 2 
+Q8CBR6	Mus musculus 	Secreted (curated)	Tsukushin 
+Q8CC36	Mus musculus 	Secreted (curated)	Cerebral dopamine neurotrophic factor 
+Q8CC88	Mus musculus 	Secreted (curated)	von Willebrand factor A domain-containing protein 8 
+Q8CCB5	Mus musculus 	Secreted (curated)	Methyltransferase-like protein 24 
+Q8CD73	Mus musculus 	Secreted (curated)	Protein Gm13277 
+Q8CD91	Mus musculus 	Secreted (curated)	SPARC-related modular calcium-binding protein 2 
+Q8CE23	Mus musculus 	Secreted (curated)	Orexigenic neuropeptide QRFP 
+Q8CEI1	Mus musculus 	Secreted (curated)	BolA-like protein 3 
+Q8CEK3	Mus musculus 	Secreted (curated)	Serine protease inhibitor kazal-like protein, minor form 
+Q8CF27	Mus musculus 	Secreted (curated)	Protein FAM24A 
+Q8CF31	Mus musculus 	Secreted (curated)	Uncharacterized protein C11orf94 homolog 
+Q8CF98	Mus musculus 	Secreted (curated)	Collectin-10 
+Q8CFR0	Mus musculus 	Secreted (curated)	Complement C1q-like protein 2 
+Q8CFZ4	Mus musculus 	Secreted (curated)	Glypican-3 
+Q8CG19	Mus musculus 	Secreted (curated)	Latent-transforming growth factor beta-binding protein 1 
+Q8CG64	Mus musculus 	ER (membrane), Golgi apparatus (membrane), Secreted (curated)	Fukutin-related protein 
+Q8CG65	Mus musculus 	Secreted (curated)	SCO-spondin 
+Q8CG85	Mus musculus 	Secreted (curated)	MAM domain-containing protein 2 
+Q8CGD2	Mus musculus 	Secreted (curated)	Cysteine-rich secretory protein LCCL domain-containing 1 
+Q8CGK6	Mus musculus 	Secreted (curated)	Interferon lambda-3 
+Q8CGR5	Mus musculus 	Secreted (curated)	Kallikrein-14 
+Q8CGZ6	Mus musculus 	Secreted (curated)	Placental lactogen-I alpha 
+Q8CGZ7	Mus musculus 	Secreted (curated)	MCG140776 
+Q8CGZ8	Mus musculus 	Secreted (curated)	Placental lactogen-I beta 
+Q8CGZ9	Mus musculus 	Secreted (curated)	Prolactin-7B1 
+Q8CHK2	Mus musculus 	Secreted (curated)	Relaxin-3 
+Q8CHS7	Mus musculus 	Secreted (curated)	Dehydrogenase/reductase SDR family member 7C 
+Q8CI19	Mus musculus 	Cytoplasm, Nucleus (membrane), Secreted (curated)	Platelet-derived growth factor C 
+Q8CID3	Mus musculus 	Secreted (curated)	Protein FAM20A 
+Q8CIE0	Mus musculus 	Secreted (curated)	Serpin A11 
+Q8CIE6	Mus musculus 	Secreted (curated)	Coatomer subunit alpha 
+Q8CIF4	Mus musculus 	Secreted (curated)	Biotinidase 
+Q8CII9	Mus musculus 	Secreted (curated)	Cytokine receptor-like factor 2 
+Q8CIT0	Mus musculus 	Secreted (curated)	Corticoliberin 
+Q8CIT9	Mus musculus 	Secreted (curated)	Suprabasin 
+Q8CIV3	Mus musculus 	Secreted (curated)	Lipase member H 
+Q8CIZ8	Mus musculus 	Secreted (curated)	von Willebrand factor 
+Q8CJ69	Mus musculus 	Secreted (curated)	BMP-binding endothelial regulator protein 
+Q8CJ70	Mus musculus 	Secreted (curated)	Interleukin-19 
+Q8HW98	Mus musculus 	Secreted (curated)	IgLON family member 5 
+Q8JZM8	Mus musculus 	Secreted (curated)	Mucin-4 
+Q8JZQ5	Mus musculus 	Secreted (curated)	Amiloride-sensitive amine oxidase [copper-containing] 
+Q8K0C5	Mus musculus 	Cytoplasm, Golgi apparatus, Secreted (curated)	Zymogen granule membrane protein 16 
+Q8K0D2	Mus musculus 	Secreted (curated)	Hyaluronan-binding protein 2 
+Q8K0E8	Mus musculus 	Secreted (curated)	Fibrinogen beta chain 
+Q8K182	Mus musculus 	Secreted (curated)	Complement component C8 alpha chain 
+Q8K1D8	Mus musculus 	Secreted (curated)	Adropin 
+Q8K1H9	Mus musculus 	Secreted (curated)	Odorant-binding protein 2a 
+Q8K1I3	Mus musculus 	Secreted (curated)	Secreted phosphoprotein 24 
+Q8K1S1	Mus musculus 	Secreted (curated)	Leucine-rich repeat LGI family member 4 
+Q8K1T4	Mus musculus 	Secreted (curated)	Lymphocyte antigen 6 complex locus protein G5b 
+Q8K1T5	Mus musculus 	Secreted (curated)	Lymphocyte antigen 6 complex locus protein G5c 
+Q8K209	Mus musculus 	Secreted (curated)	G-protein coupled receptor 56 
+Q8K262	Mus musculus 	Secreted (curated)	Placenta-specific protein 9 
+Q8K2A6	Mus musculus 	Secreted (curated)	Lipase member M 
+Q8K2T4	Mus musculus 	Secreted (curated)	UPF0723 protein C11orf83 homolog 
+Q8K2W9	Mus musculus 	Secreted (curated)	Uncharacterized protein C14orf93 homolog 
+Q8K3F2	Mus musculus 	Secreted (curated)	Matrix metalloproteinase-21 
+Q8K3I6	Mus musculus 	Secreted (curated)	Interleukin-27 subunit alpha 
+Q8K3I8	Mus musculus 	Secreted (curated)	Beta-defensin 19 
+Q8K3U4	Mus musculus 	Secreted (curated)	Beta-defensin 36 
+Q8K406	Mus musculus 	Cytoplasm, Secreted (curated)	Leucine-rich repeat LGI family member 3 
+Q8K479	Mus musculus 	Secreted (curated)	Complement C1q tumor necrosis factor-related protein 5 
+Q8K482	Mus musculus 	Secreted (curated)	EMILIN-2 
+Q8K4C5	Mus musculus 	Secreted (curated)	Interleukin-17C 
+Q8K4G1	Mus musculus 	Secreted (curated)	Latent-transforming growth factor beta-binding protein 4 
+Q8K4G2	Mus musculus 	Secreted (curated)	Collagen alpha-1(XXIII) chain 
+Q8K4I7	Mus musculus 	GPI anchored, Secreted (curated)	Inactive serine protease 45 
+Q8K4N2	Mus musculus 	Secreted (curated)	Sperm-associated antigen 11 
+Q8K4N3	Mus musculus 	Secreted (curated)	Beta-defensin 12 
+Q8K4P1	Mus musculus 	Secreted (curated)	Neuropeptide B 
+Q8K4Z0	Mus musculus 	Secreted (curated)	Leucine-rich repeat LGI family member 2 
+Q8K4Z2	Mus musculus 	Secreted (curated)	Fibronectin type III domain-containing protein 5 
+Q8K4Z3	Mus musculus 	Mitochondria, Secreted (curated)	NAD(P)H-hydrate epimerase 
+Q8K561	Mus musculus 	GPI anchored, Secreted (curated)	Otoancorin 
+Q8QZY4	Mus musculus 	Secreted (curated)	Retbindin 
+Q8R043	Mus musculus 	Secreted (curated)	Uncharacterized protein C6orf1 homolog 
+Q8R054	Mus musculus 	Cytoplasm, Secreted (curated)	Sushi repeat-containing protein SRPX2 
+Q8R066	Mus musculus 	Secreted (curated)	Complement C1q tumor necrosis factor-related protein 4 
+Q8R0A6	Mus musculus 	GPI anchored, Secreted (curated)	V-set and transmembrane domain-containing protein 2A 
+Q8R0S6	Mus musculus 	Secreted (curated)	WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 1 
+Q8R0W5	Mus musculus 	Secreted (curated)	Carboxylesterase 4A 
+Q8R0W6	Mus musculus 	Golgi apparatus (membrane), Secreted (curated)	NEDD4 family-interacting protein 1 
+Q8R0Z2	Mus musculus 	Plasma membrane, Secreted (curated)	Ecto-NOX disulfide-thiol exchanger 2 
+Q8R0Z6	Mus musculus 	Secreted (curated)	Angiopoietin-related protein 6 
+Q8R116	Mus musculus 	Secreted (curated)	Protein notum homolog 
+Q8R121	Mus musculus 	Secreted (curated)	Protein Z-dependent protease inhibitor 
+Q8R1I2	Mus musculus 	Secreted (curated)	Gastrin-releasing peptide 
+Q8R1J9	Mus musculus 	Secreted (curated)	Torsin-2A 
+Q8R1L8	Mus musculus 	Secreted (curated)	Betatrophin 
+Q8R1M8	Mus musculus 	Secreted (curated)	Mucosal pentraxin 
+Q8R1Q3	Mus musculus 	Secreted (curated)	Angiopoietin-related protein 7 
+Q8R1R4	Mus musculus 	Secreted (curated)	Interleukin-34 
+Q8R1U2	Mus musculus 	Secreted (curated)	Cell growth regulator with EF hand domain protein 1 
+Q8R1W8	Mus musculus 	Secreted (curated)	Interphotoreceptor matrix proteoglycan 1 
+Q8R2G6	Mus musculus 	Secreted (curated)	Coiled-coil domain-containing protein 80 
+Q8R2I3	Mus musculus 	Secreted (curated)	Beta-defensin 35 
+Q8R2I4	Mus musculus 	Secreted (curated)	Beta-defensin 13 
+Q8R2I5	Mus musculus 	Secreted (curated)	Beta-defensin 15 
+Q8R2I6	Mus musculus 	Secreted (curated)	Beta-defensin 9 
+Q8R2I7	Mus musculus 	Secreted (curated)	Beta-defensin 11 
+Q8R2I8	Mus musculus 	Secreted (curated)	Beta-defensin 10 
+Q8R2K8	Mus musculus 	GPI anchored, Secreted (curated)	Uncharacterized protein C1orf54 homolog 
+Q8R2Z0	Mus musculus 	Secreted (curated)	Protein FAM132A 
+Q8R2Z5	Mus musculus 	Secreted (curated)	von Willebrand factor A domain-containing protein 1 
+Q8R392	Mus musculus 	Secreted (curated)	Cxcl11 protein 
+Q8R3W7	Mus musculus 	Secreted (curated)	Anterior gradient protein 3 homolog 
+Q8R448	Mus musculus 	Secreted (curated)	Otospiralin 
+Q8R459	Mus musculus 	Secreted (curated)	Interleukin-1 family member 10 
+Q8R460	Mus musculus 	Secreted (curated)	Interleukin-36 gamma 
+Q8R4F1	Mus musculus 	GPI anchored, Secreted (curated)	Netrin-G2 
+Q8R4G0	Mus musculus 	GPI anchored, Secreted (curated)	Netrin-G1 
+Q8R4H4	Mus musculus 	Secreted (curated)	Carboxypeptidase A5 
+Q8R4K8	Mus musculus 	Secreted (curated)	Pappalysin-1 
+Q8R4V4	Mus musculus 	Secreted (curated)	Carboxypeptidase Z 
+Q8R4V5	Mus musculus 	Nucleus, Secreted (curated)	Oncoprotein-induced transcript 3 protein 
+Q8R4W6	Mus musculus 	Secreted (curated)	Procollagen C-endopeptidase enhancer 2 
+Q8R555	Mus musculus 	GPI anchored, Secreted (curated)	Cartilage acidic protein 1 
+Q8R5M2	Mus musculus 	Secreted (curated)	Protein Wnt-9a 
+Q8VC60	Mus musculus 	Secreted (curated)	Beta-galactosidase-1-like protein 
+Q8VCC9	Mus musculus 	Secreted (curated)	Spondin-1 
+Q8VCF1	Mus musculus 	ER (membrane), Golgi apparatus (membrane), Secreted (curated)	Soluble calcium-activated nucleotidase 1 
+Q8VCG4	Mus musculus 	Secreted (curated)	Complement component C8 gamma chain 
+Q8VCI0	Mus musculus 	Cytoplasm, Secreted (curated)	Phospholipase B-like 1 
+Q8VCM7	Mus musculus 	Secreted (curated)	Fibrinogen gamma chain 
+Q8VCR2	Mus musculus 	Secreted (curated)	17-beta-hydroxysteroid dehydrogenase 13 
+Q8VCS0	Mus musculus 	Secreted (curated)	N-acetylmuramoyl-L-alanine amidase 
+Q8VCT3	Mus musculus 	Secreted (curated)	Aminopeptidase B 
+Q8VDL4	Mus musculus 	Secreted (curated)	ADP-dependent glucokinase 
+Q8VDV0	Mus musculus 	Secreted (curated)	Integrin beta-like protein 1 
+Q8VE43	Mus musculus 	Secreted (curated)	Meteorin-like protein 
+Q8VEA6	Mus musculus 	Secreted (curated)	Chordin-like protein 2 
+Q8VEB4	Mus musculus 	Lysosome, Secreted (curated)	Group XV phospholipase A2 
+Q8VEI3	Mus musculus 	Lysosome, Secreted (curated)	Hyaluronidase-3 
+Q8VEJ3	Mus musculus 	Secreted (curated)	Dickkopf-related protein 4 
+Q8VHI5	Mus musculus 	Secreted (curated)	Vitrin 
+Q8VHK8	Mus musculus 	Secreted (curated)	Transmembrane protease serine 11D 
+Q8VHN7	Mus musculus 	Secreted (curated)	G-protein coupled receptor 98 
+Q8VHS2	Mus musculus 	Cytoplasm, Nucleus (membrane), Plasma membrane, Secreted (curated)	Protein crumbs homolog 1 
+Q8VHY0	Mus musculus 	Plasma membrane, Secreted (curated)	Chondroitin sulfate proteoglycan 4 
+Q8VI78	Mus musculus 	Secreted (curated)	Phospholipase A1 member A 
+Q8VIF2	Mus musculus 	GPI anchored, Secreted (curated)	Serine protease 42 
+Q8VII3	Mus musculus 	Secreted (curated)	Cystatin-14 
+Q91V13	Mus musculus 	Secreted (curated)	Liver-expressed antimicrobial peptide 2 
+Q91V65	Mus musculus 	Secreted (curated)	Protein Wnt (Fragment) 
+Q91V70	Mus musculus 	Secreted (curated)	Beta-defensin 7 
+Q91V80	Mus musculus 	Secreted (curated)	Apolipoprotein F 
+Q91V82	Mus musculus 	Secreted (curated)	Beta-defensin 8 
+Q91V88	Mus musculus 	Secreted (curated)	Nephronectin 
+Q91VD6	Mus musculus 	Secreted (curated)	Beta-defensin 6 
+Q91VE3	Mus musculus 	Secreted (curated)	Kallikrein-7 
+Q91VF5	Mus musculus 	Secreted (curated)	EMI domain-containing protein 1 
+Q91VF6	Mus musculus 	Secreted (curated)	Collagen alpha-1(XXVI) chain 
+Q91VU0	Mus musculus 	Cytoplasm, Secreted (curated)	Protein FAM3C 
+Q91VX5	Mus musculus 	Secreted (curated)	Neurexophilin-3 
+Q91W27	Mus musculus 	Secreted (curated)	Tuberoinfundibular peptide of 39 residues 
+Q91WD9	Mus musculus 	Cytoplasm, Secreted (curated)	Secretagogin 
+Q91WE9	Mus musculus 	Secreted (curated)	Protein FAM19A5 
+Q91WP0	Mus musculus 	Secreted (curated)	Mannan-binding lectin serine protease 2 
+Q91WP6	Mus musculus 	Secreted (curated)	Serine protease inhibitor A3N 
+Q91WR8	Mus musculus 	Secreted (curated)	Glutathione peroxidase 6 
+Q91X17	Mus musculus 	GPI anchored, Secreted (curated)	Uromodulin 
+Q91X23	Mus musculus 	Secreted (curated)	Alpha-1-acid glycoprotein 
+Q91X72	Mus musculus 	Secreted (curated)	Hemopexin 
+Q91X79	Mus musculus 	Secreted (curated)	Chymotrypsin-like elastase family member 1 
+Q91XA9	Mus musculus 	Cytoplasm, Secreted (curated)	Acidic mammalian chitinase 
+Q91Y47	Mus musculus 	Secreted (curated)	Coagulation factor XI 
+Q91Z72	Mus musculus molossinus 	Secreted (curated)	Beta-2-microglobulin (Fragment) 
+Q91Z73	Mus musculus musculus 	Secreted (curated)	Beta-2-microglobulin (Fragment) 
+Q91Z98	Mus musculus 	Secreted (curated)	Chitinase-3-like protein 4 
+Q91ZB2	Mus musculus 	Secreted (curated)	Gamma interferon-induced monokine (Fragment) 
+Q91ZB3	Mus musculus 	Secreted (curated)	Interferon alpha 4 (Fragment) 
+Q91ZF2	Mus musculus 	Cytoplasm, Golgi apparatus, Lysosome, Nucleus, Secreted (curated)	Cathepsin 7 
+Q91ZJ9	Mus musculus 	Lysosome, Secreted (curated)	Hyaluronidase-1 
+Q91ZV0	Mus musculus 	Secreted (curated)	Melanoma inhibitory activity protein 2 
+Q920A0	Mus musculus 	Secreted (curated)	Opticin 
+Q920A5	Mus musculus 	Secreted (curated)	Retinoid-inducible serine carboxypeptidase 
+Q920A9	Mus musculus 	Cytoplasm, Secreted (curated)	Fc receptor-like A 
+Q920C1	Mus musculus 	Secreted (curated)	Chordin-like protein 1 
+Q920D7	Mus musculus 	Secreted (curated)	Secretoglobin family 3A member 1 
+Q920H1	Mus musculus 	Secreted (curated)	Secretoglobin family 3A member 2 
+Q921I1	Mus musculus 	Secreted (curated)	Serotransferrin 
+Q921W8	Mus musculus 	Secreted (curated)	Secreted and transmembrane protein 1A 
+Q922B9	Mus musculus 	Cytoplasm, Plasma membrane, Secreted (curated)	Sperm-specific antigen 2 homolog 
+Q922Q9	Mus musculus 	Lysosome, Secreted (curated)	Chitinase domain-containing protein 1 
+Q923P0	Mus musculus 	Secreted (curated)	Collagen alpha-1(XX) chain 
+Q924A4	Mus musculus 	Secreted (curated)	Urocortin-3 
+Q924C6	Mus musculus 	Secreted (curated)	Lysyl oxidase homolog 4 
+Q924N9	Mus musculus 	Secreted (curated)	Serine protease 28 
+Q924P3	Mus musculus 	Secreted (curated)	Epididymal-specific lipocalin-8 
+Q924X6	Mus musculus 	Secreted (curated)	Low-density lipoprotein receptor-related protein 8 
+Q925I7	Mus musculus 	Secreted (curated)	Platelet-derived growth factor D 
+Q925Q5	Mus musculus 	Secreted (curated)	Glycoprotein hormone alpha-2 
+Q925S4	Mus musculus 	Secreted (curated)	Interleukin-24 
+Q925U0	Mus musculus 	Secreted (curated)	Oocyte-secreted protein 1 
+Q99JA0	Mus musculus 	Secreted (curated)	Calcitonin gene-related peptide 1 
+Q99JR5	Mus musculus 	Secreted (curated)	Tubulointerstitial nephritis antigen-like 
+Q99JW1	Mus musculus 	Secreted (curated)	Alpha/beta hydrolase domain-containing protein 17A 
+Q99K41	Mus musculus 	Secreted (curated)	EMILIN-1 
+Q99KQ4	Mus musculus 	Cytoplasm, Nucleus, Secreted (curated)	Nicotinamide phosphoribosyltransferase 
+Q99KR8	Mus musculus 	Secreted (curated)	Plasma alpha-L-fucosidase 
+Q99KS2	Mus musculus 	Nucleus, Secreted (curated)	Neugrin 
+Q99KW9	Mus musculus 	Secreted (curated)	T-cell immunomodulatory protein 
+Q99KX9	Mus musculus 	Secreted (curated)	Hc protein (Fragment) 
+Q99LJ6	Mus musculus 	Secreted (curated)	Glutathione peroxidase 7 
+Q99LS0	Mus musculus 	Cytoplasm, Secreted (curated)	Augurin 
+Q99M71	Mus musculus 	Secreted (curated)	Mammalian ependymin-related protein 1 
+Q99ML8	Mus musculus 	Secreted (curated)	Urocortin-2 
+Q99MP3	Mus musculus 	Secreted (curated)	Calcitonin gene-related peptide 2 
+Q99MQ4	Mus musculus 	Secreted (curated)	Asporin 
+Q99MQ5	Mus musculus 	Secreted (curated)	Collagen alpha-1(XXV) chain 
+Q99MS4	Mus musculus 	Secreted (curated)	Serine protease 29 
+Q99N14	Mus musculus 	Secreted (curated)	Tachykinin-4 
+Q99N23	Mus musculus 	GPI anchored, Secreted (curated)	Carbonic anhydrase 15 
+Q99NH8	Mus musculus 	Secreted (curated)	Triggering receptor expressed on myeloid cells 2 
+Q99P27	Mus musculus 	Secreted (curated)	Group XIIB secretory phospholipase A2-like protein 
+Q99P68	Mus musculus 	Secreted (curated)	Sclerostin 
+Q99P86	Mus musculus 	Secreted (curated)	Resistin-like beta 
+Q99P87	Mus musculus 	Secreted (curated)	Resistin 
+Q99PJ1	Mus musculus 	Secreted (curated)	Protocadherin-15 
+Q9CPP7	Mus musculus 	Secreted (curated)	Gastric triacylglycerol lipase 
+Q9CPQ0	Mus musculus 	Secreted (curated)	Prolactin 
+Q9CPQ2	Mus musculus 	Secreted (curated)	Prolactin 
+Q9CPT4	Mus musculus 	Secreted (curated)	UPF0556 protein C19orf10 homolog 
+Q9CPX3	Mus musculus 	Secreted (curated)	Lysozyme-like protein 1 
+Q9CQ01	Mus musculus 	ER, Lysosome, Secreted (curated)	Ribonuclease T2 
+Q9CQ45	Mus musculus 	Secreted (curated)	Neudesin 
+Q9CQ58	Mus musculus 	Secreted (curated)	Prolactin-8A9 
+Q9CQC2	Mus musculus 	Secreted (curated)	Colipase 
+Q9CQD7	Mus musculus 	Secreted (curated)	phospholipase A2 inhibitor and Ly6/PLAUR domain-containing protein 
+Q9CQN4	Mus musculus 	Secreted (curated)	Sclerostin domain-containing protein 1 
+Q9CQS3	Mus musculus 	ER, Golgi apparatus, Secreted (curated)	Fin bud initiation factor homolog 
+Q9CQS6	Mus musculus 	Golgi apparatus, GPI anchored, Secreted (curated)	Gastrokine-2 
+Q9CQU1	Mus musculus 	Secreted (curated)	Microfibrillar-associated protein 1 
+Q9CQW3	Mus musculus 	Secreted (curated)	Vitamin K-dependent protein Z 
+Q9CQX3	Mus musculus 	Secreted (curated)	BPI fold-containing family A member 5 
+Q9CR35	Mus musculus 	Secreted (curated)	Chymotrypsinogen B 
+Q9CR36	Mus musculus 	Secreted (curated)	Gastrokine-1 
+Q9CR53	Mus musculus 	Secreted (curated)	Neuromedin-B 
+Q9CRB5	Mus musculus 	Secreted (curated)	Prolactin-7C1 
+Q9CUI8	Mus musculus 	Secreted (curated)	Putative uncharacterized protein (Fragment) 
+Q9CUV1	Mus musculus 	Secreted (curated)	Protein Wnt (Fragment) 
+Q9CVF1	Mus musculus 	Secreted (curated)	Putative uncharacterized protein (Fragment) 
+Q9CWP4	Mus musculus 	Cytoplasm, Secreted (curated)	Lymphocyte antigen 6K 
+Q9CWU2	Mus musculus 	Cytoplasm, Golgi apparatus (membrane), Secreted (curated)	Palmitoyltransferase ZDHHC13 
+Q9CX63	Mus musculus 	Secreted (curated)	Uncharacterized protein C17orf99 homolog 
+Q9CXD9	Mus musculus 	Secreted (curated)	Leucine-rich repeat-containing protein 17 
+Q9CXI5	Mus musculus 	Secreted (curated)	Mesencephalic astrocyte-derived neurotrophic factor 
+Q9CYA0	Mus musculus 	ER, Secreted (curated)	Cysteine-rich with EGF-like domain protein 2 
+Q9CYD3	Mus musculus 	Secreted (curated)	Cartilage-associated protein 
+Q9CYH5	Mus musculus 	Secreted (curated)	Glucose-fructose oxidoreductase domain-containing protein 2 
+Q9CYK2	Mus musculus 	Secreted (curated)	Glutaminyl-peptide cyclotransferase 
+Q9CYL2	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q9CYL8	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q9D0L4	Mus musculus 	Secreted (curated)	Uncharacterized aarF domain-containing protein kinase 1 
+Q9D0T7	Mus musculus 	Secreted (curated)	Gastrokine-3 
+Q9D159	Mus musculus 	Cytoplasm, ER (membrane), Secreted (curated)	Melanocortin-2 receptor accessory protein 
+Q9D1D6	Mus musculus 	Secreted (curated)	Collagen triple helix repeat-containing protein 1 
+Q9D1G0	Mus musculus 	Secreted (curated)	Deoxyribonuclease-1-like 2 
+Q9D1H9	Mus musculus 	Secreted (curated)	Microfibril-associated glycoprotein 4 
+Q9D236	Mus musculus 	Secreted (curated)	Serine protease HTRA3 
+Q9D239	Mus musculus 	Secreted (curated)	Beta-2-microglobulin 
+Q9D256	Mus musculus 	Secreted (curated)	Serine protease inhibitor Kazal-type 12 
+Q9D263	Mus musculus 	Secreted (curated)	Kunitz-type protease inhibitor 4 
+Q9D267	Mus musculus 	Secreted (curated)	Epididymal-specific lipocalin-9 
+Q9D269	Mus musculus 	Secreted (curated)	Cystatin-11 
+Q9D2G9	Mus musculus 	Secreted (curated)	HHIP-like protein 2 
+Q9D2L1	Mus musculus 	Secreted (curated)	Arylsulfatase K 
+Q9D2L5	Mus musculus 	Secreted (curated)	Inactive carboxypeptidase-like protein X2 
+Q9D2S4	Mus musculus 	Secreted (curated)	Protein SPACA7 
+Q9D309	Mus musculus 	Secreted (curated)	Protein FAM3B 
+Q9D3J8	Mus musculus 	Secreted (curated)	Amelotin 
+Q9D3P9	Mus musculus 	Cytoplasm, Secreted (curated)	Neurotensin/neuromedin N 
+Q9D4R2	Mus musculus 	Secreted (curated)	Glycosyltransferase 54 domain-containing protein 
+Q9D5A9	Mus musculus 	Secreted (curated)	Inactive ribonuclease-like protein 10 
+Q9D6X6	Mus musculus 	Secreted (curated)	Serine protease 23 
+Q9D6Y1	Mus musculus 	Secreted (curated)	Coiled-coil domain-containing protein 3 
+Q9D6Z6	Mus musculus 	Secreted (curated)	Interleukin-36 beta 
+Q9D733	Mus musculus 	GPI anchored, Secreted (curated)	Pancreatic secretory granule membrane major glycoprotein GP2 
+Q9D777	Mus musculus 	Secreted (curated)	Tumor necrosis factor ligand superfamily member 13 
+Q9D7D2	Mus musculus 	Secreted (curated)	Serpin A9 
+Q9D7Q0	Mus musculus 	Secreted (curated)	Lysozyme g-like protein 1 
+Q9D7Q1	Mus musculus 	Lysosome, Secreted (curated)	Chitotriosidase-1 
+Q9D7R7	Mus musculus 	Secreted (curated)	Gastricsin 
+Q9D7Z6	Mus musculus 	Secreted (curated)	Calcium-activated chloride channel regulator 1 
+Q9D8B7	Mus musculus 	Secreted (curated)	Junctional adhesion molecule C 
+Q9D8G5	Mus musculus 	Secreted (curated)	Regenerating islet-derived protein 4 
+Q9D8I1	Mus musculus 	ER, Secreted (curated)	Marginal zone B- and B1-cell-specific protein 
+Q9D8S9	Mus musculus 	Secreted (curated)	BolA-like protein 1 
+Q9D8T0	Mus musculus 	Secreted (curated)	Protein FAM3A 
+Q9D8U4	Mus musculus 	Secreted (curated)	Complement C1q tumor necrosis factor-related protein 2 
+Q9D925	Mus musculus 	Secreted (curated)	Lysozyme-like protein 4 
+Q9D9B0	Mus musculus 	Secreted (curated)	Coiled-coil domain-containing protein 70 
+Q9D9H8	Mus musculus 	Secreted (curated)	UPF0565 protein C2orf69 homolog 
+Q9D9J8	Mus musculus 	Secreted (curated)	BPI fold-containing family A member 3 
+Q9D9N8	Mus musculus 	Secreted (curated)	Protease-associated domain-containing protein 1 
+Q9D9P8	Mus musculus 	Secreted (curated)	Uncharacterized protein C7orf34 homolog 
+Q9D9X8	Mus musculus 	Secreted (curated)	Sperm acrosome membrane-associated protein 3 
+Q9DA01	Mus musculus 	Secreted (curated)	Eppin 
+Q9DA11	Mus musculus 	Secreted (curated)	Lysozyme-like protein 6 
+Q9DAA4	Mus musculus 	Secreted (curated)	Probable inactive serine protease 37 
+Q9DAL9	Mus musculus 	Secreted (curated)	Protein FAM24A-like 
+Q9DAN8	Mus musculus 	Secreted (curated)	Cystatin-12 
+Q9DAS4	Mus musculus 	Secreted (curated)	Prolactin-8A8 
+Q9DAU7	Mus musculus 	Secreted (curated)	WAP four-disulfide core domain protein 2 
+Q9DAY2	Mus musculus 	Secreted (curated)	Prolactin-8A6 
+Q9DAY5	Mus musculus 	Secreted (curated)	UPF0669 protein C6orf120 homolog 
+Q9DAY8	Mus musculus 	Secreted (curated)	Proliferin related protein, isoform CRA_b 
+Q9DAZ2	Mus musculus 	Secreted (curated)	Prolactin-2B1 
+Q9DB72	Mus musculus 	Secreted (curated)	BTB/POZ domain-containing protein 17 
+Q9DBB9	Mus musculus 	Secreted (curated)	Carboxypeptidase N subunit 2 
+Q9DBD0	Mus musculus 	Secreted (curated)	Inhibitor of carbonic anhydrase 
+Q9DBN0	Mus musculus 	Secreted (curated)	Putative uncharacterized protein 
+Q9DCF1	Mus musculus 	Secreted (curated)	Transmembrane protein 25 
+Q9DCQ7	Mus musculus 	Secreted (curated)	Alpha-1-antitrypsin 1-6 
+Q9DCT5	Mus musculus 	Secreted (curated)	Stromal cell-derived factor 2 
+Q9DD06	Mus musculus 	Secreted (curated)	Retinoic acid receptor responder protein 2 
+Q9EP52	Mus musculus 	Secreted (curated)	Twisted gastrulation protein homolog 1 
+Q9EP95	Mus musculus 	Secreted (curated)	Resistin-like alpha 
+Q9EPC2	Mus musculus 	Secreted (curated)	Fibroblast growth factor 23 
+Q9EPL5	Mus musculus 	Secreted (curated)	Interstitial collagenase A 
+Q9EPL6	Mus musculus 	Secreted (curated)	Interstitial collagenase B 
+Q9EPR2	Mus musculus 	Cytoplasm, Secreted (curated)	Group XIIA secretory phospholipase A2 
+Q9EPS2	Mus musculus 	Secreted (curated)	Peptide YY 
+Q9EPV9	Mus musculus 	Secreted (curated)	Beta-defensin 5 
+Q9EPW4	Mus musculus 	Secreted (curated)	C-type lectin domain family 3 member A 
+Q9EPX2	Mus musculus 	Secreted (curated)	Papilin 
+Q9EQ06	Mus musculus 	Cytoplasm, Secreted (curated)	Estradiol 17-beta-dehydrogenase 11 
+Q9EQ09	Mus musculus 	Secreted (curated)	Oxidized low-density lipoprotein receptor 1 
+Q9EQ14	Mus musculus 	Secreted (curated)	Interleukin-23 subunit alpha 
+Q9EQ21	Mus musculus 	Secreted (curated)	Hepcidin 
+Q9EQC7	Mus musculus 	Nucleus, Secreted (curated)	Follistatin-related protein 3 
+Q9EQF4	Mus musculus 	GPI anchored, Secreted (curated)	Probable folate receptor delta 
+Q9EQG7	Mus musculus 	Secreted (curated)	Ectonucleotide pyrophosphatase/phosphodiesterase family member 5 
+Q9EQI5	Mus musculus 	Secreted (curated)	Chemokine (C-X-C motif) ligand 7, isoform CRA_b 
+Q9EQX0	Mus musculus 	Secreted (curated)	Appetite-regulating hormone 
+Q9ER58	Mus musculus 	Secreted (curated)	Testican-2 
+Q9ER62	Mus musculus 	Secreted (curated)	Tumor necrosis factor receptor superfamily member 22 
+Q9ERM2	Mus musculus 	Secreted (curated)	Intercellular adhesion molecule 4 
+Q9ES17	Mus musculus 	Secreted (curated)	Interleukin-21 
+Q9ES30	Mus musculus 	Secreted (curated)	Complement C1q tumor necrosis factor-related protein 3 
+Q9ESB3	Mus musculus 	Secreted (curated)	Histidine-rich glycoprotein 
+Q9ESD1	Mus musculus 	GPI anchored, Secreted (curated)	Prostasin 
+Q9ESH5	Mus musculus 	Secreted (curated)	WAP four-disulfide core domain protein 1 
+Q9ESL8	Mus musculus 	Secreted (curated)	Fibroblast growth factor 16 
+Q9ESL9	Mus musculus 	Secreted (curated)	Fibroblast growth factor 20 
+Q9ESM3	Mus musculus 	Secreted (curated)	Hyaluronan and proteoglycan link protein 2 
+Q9ESN4	Mus musculus 	Secreted (curated)	Complement C1q-like protein 3 
+Q9ESQ8	Mus musculus 	Secreted (curated)	Pro-FMRFamide-related neuropeptide VF 
+Q9ESS2	Mus musculus 	Secreted (curated)	Fibroblast growth factor 22 
+Q9ESY9	Mus musculus 	Lysosome, Secreted (curated)	Gamma-interferon-inducible lysosomal thiol reductase 
+Q9ET22	Mus musculus 	Cytoplasm, Lysosome, Secreted (curated)	Dipeptidyl peptidase 2 
+Q9JHA8	Mus musculus 	Secreted (curated)	von Willebrand factor A domain-containing protein 7 
+Q9JHB3	Mus musculus 	Secreted (curated)	Metalloproteinase inhibitor 4 
+Q9JHE3	Mus musculus 	Secreted (curated)	Neutral ceramidase 
+Q9JHF9	Mus musculus 	Secreted (curated)	Lymphocyte antigen 96 
+Q9JHG0	Mus musculus 	ER, Golgi apparatus, Secreted (curated)	Cerebellin-3 
+Q9JHH5	Mus musculus 	Secreted (curated)	C-X-C motif chemokine 11 
+Q9JHH6	Mus musculus 	Secreted (curated)	Carboxypeptidase B2 
+Q9JHI0	Mus musculus 	GPI anchored, Secreted (curated)	Matrix metalloproteinase-19 
+Q9JHK0	Mus musculus 	Secreted (curated)	Prolactin-2A1 
+Q9JHR7	Mus musculus 	Cytoplasm, Secreted (curated)	Insulin-degrading enzyme 
+Q9JHY3	Mus musculus 	Secreted (curated)	WAP four-disulfide core domain protein 12 
+Q9JHY4	Mus musculus 	Secreted (curated)	WAP four-disulfide core domain protein 15B 
+Q9JI02	Mus musculus 	Secreted (curated)	Secretoglobin family 2B member 20 
+Q9JI33	Mus musculus 	Secreted (curated)	Netrin-4 
+Q9JI83	Mus musculus 	Secreted (curated)	Placenta-specific protein 1 
+Q9JIA1	Mus musculus 	Cytoplasm, Secreted (curated)	Leucine-rich glioma-inactivated protein 1 
+Q9JIE3	Mus musculus 	Secreted (curated)	Otoraplin 
+Q9JIE6	Mus musculus 	Secreted (curated)	Thymic stromal lymphopoietin 
+Q9JII2	Mus musculus 	Secreted (curated)	Prolactin-5A1 
+Q9JIL2	Mus musculus 	Secreted (curated)	C-C motif chemokine 28 
+Q9JIP3	Mus musculus 	Secreted (curated)	Interleukin-17 receptor B 
+Q9JIQ8	Mus musculus 	Secreted (curated)	Transmembrane protease serine 2 
+Q9JJC8	Mus musculus 	Secreted (curated)	Magnesium transporter NIPA2 
+Q9JJH1	Mus musculus 	Secreted (curated)	Ribonuclease 4 
+Q9JJN1	Mus musculus 	Secreted (curated)	Fibroblast growth factor 21 
+Q9JJN5	Mus musculus 	Secreted (curated)	Carboxypeptidase N catalytic chain 
+Q9JJS0	Mus musculus 	Secreted (curated)	Signal peptide, CUB and EGF-like domain-containing protein 2 
+Q9JJT2	Mus musculus 	Secreted (curated)	GDNF family receptor alpha-4 
+Q9JJY8	Mus musculus 	Secreted (curated)	Interleukin-22b 
+Q9JJY9	Mus musculus 	Secreted (curated)	Interleukin-22 
+Q9JJZ5	Mus musculus 	Secreted (curated)	Epidermal growth factor-like protein 6 
+Q9JK53	Mus musculus 	Secreted (curated)	Prolargin 
+Q9JK88	Mus musculus 	Secreted (curated)	Serpin I2 
+Q9JKC0	Mus musculus 	Secreted (curated)	C-C motif chemokine 24 
+Q9JKQ8	Mus musculus 	Secreted (curated)	Protein Wnt (Fragment) 
+Q9JKV9	Mus musculus 	Secreted (curated)	Interleukin-20 
+Q9JL59	Mus musculus 	Secreted (curated)	Secreted and transmembrane protein 1b 
+Q9JLA2	Mus musculus 	Secreted (curated)	Interleukin-36 alpha 
+Q9JLI3	Mus musculus 	Secreted (curated)	Membrane metallo-endopeptidase-like 1 
+Q9JLL3	Mus musculus 	Secreted (curated)	Tumor necrosis factor receptor superfamily member 19 
+Q9JLS0	Mus musculus 	Secreted (curated)	Hypoxia-inducible lipid droplet-associated protein 
+Q9JLV9	Mus musculus 	Secreted (curated)	MCG113135, isoform CRA_a 
+Q9JM58	Mus musculus 	Secreted (curated)	Cytokine receptor-like factor 1 
+Q9JM99	Mus musculus 	Secreted (curated)	Proteoglycan 4 
+Q9QUL3	Mus musculus 	Secreted (curated)	Group IIE secretory phospholipase A2 
+Q9QUN5	Mus musculus 	Secreted (curated)	Prolactin-3C1 
+Q9QUN9	Mus musculus 	Secreted (curated)	Dickkopf-related protein 3 
+Q9QUP5	Mus musculus 	Secreted (curated)	Hyaluronan and proteoglycan link protein 1 
+Q9QUR8	Mus musculus 	GPI anchored (membrane), Secreted (curated)	Semaphorin-7A 
+Q9QWK4	Mus musculus 	Secreted (curated)	CD5 antigen-like 
+Q9QX28	Mus musculus 	Secreted (curated)	CXC chemokine 
+Q9QXC1	Mus musculus 	Secreted (curated)	Fetuin-B 
+Q9QXK8	Mus musculus 	Secreted (curated)	Neuromedin-U 
+Q9QXP7	Mus musculus 	Secreted (curated)	Complement C1q tumor necrosis factor-related protein 1 
+Q9QXT5	Mus musculus 	Secreted (curated)	Epidermal growth factor-like protein 7 
+Q9QXT6	Mus musculus 	Secreted (curated)	Interleukin-17B 
+Q9QXU7	Mus musculus 	Secreted (curated)	Prokineticin-2 
+Q9QXV0	Mus musculus 	Golgi apparatus, Secreted (curated)	ProSAAS 
+Q9QXX3	Mus musculus 	Secreted (curated)	Group 10 secretory phospholipase A2 
+Q9QY05	Mus musculus 	Secreted (curated)	Insulin-like peptide INSL6 
+Q9QYH9	Mus musculus 	Secreted (curated)	Tumor necrosis factor ligand superfamily member 14 
+Q9QYN3	Mus musculus 	Secreted (curated)	Kallikrein-11 
+Q9QYS1	Mus musculus 	Secreted (curated)	Protein Wnt-16 
+Q9QYY1	Mus musculus 	Secreted (curated)	Interleukin-36 receptor antagonist protein 
+Q9QYY7	Mus musculus 	Secreted (curated)	Endothelial cell-specific molecule 1 
+Q9QYZ8	Mus musculus 	Secreted (curated)	Dickkopf-related protein 2 
+Q9QZ25	Mus musculus 	Secreted (curated)	Vascular non-inflammatory molecule 3 
+Q9QZF2	Mus musculus 	GPI anchored, Secreted (curated)	Glypican-1 
+Q9QZJ6	Mus musculus 	Secreted (curated)	Microfibrillar-associated protein 5 
+Q9QZL9	Mus musculus 	Secreted (curated)	Dickkopf-like protein 1 
+Q9QZM3	Mus musculus 	Secreted (curated)	Cardiotrophin-like cytokine factor 1 
+Q9QZQ3	Mus musculus 	Secreted (curated)	Urotensin-2 
+Q9QZR9	Mus musculus 	Secreted (curated)	Collagen alpha-4(IV) chain 
+Q9QZS0	Mus musculus 	Secreted (curated)	Collagen alpha-3(IV) chain 
+Q9QZT4	Mus musculus 	Secreted (curated)	Group IIF secretory phospholipase A2 
+Q9QZZ6	Mus musculus 	Secreted (curated)	Dermatopontin 
+Q9R001	Mus musculus 	Secreted (curated)	A disintegrin and metalloproteinase with thrombospondin motifs 5 
+Q9R045	Mus musculus 	Secreted (curated)	Angiopoietin-related protein 2 
+Q9R087	Mus musculus 	GPI anchored, Secreted (curated)	Glypican-6 
+Q9R097	Mus musculus 	Secreted (curated)	Kunitz-type protease inhibitor 1 
+Q9R098	Mus musculus 	Secreted (curated)	Hepatocyte growth factor activator 
+Q9R0B6	Mus musculus 	Secreted (curated)	Laminin subunit gamma-3 
+Q9R0G6	Mus musculus 	Secreted (curated)	Cartilage oligomeric matrix protein 
+Q9R0S2	Mus musculus 	Secreted (curated)	Matrix metalloproteinase-24 
+Q9R0S3	Mus musculus 	GPI anchored, Secreted (curated)	Matrix metalloproteinase-17 
+Q9R0X2	Mus musculus 	Secreted (curated)	ADAM DEC1 
+Q9R118	Mus musculus 	Cytoplasm, Plasma membrane, Secreted (curated)	Serine protease HTRA1 
+Q9R171	Mus musculus 	ER (membrane), Secreted (curated)	Cerebellin-1 
+Q9R182	Mus musculus 	Secreted (curated)	Angiopoietin-related protein 3 
+Q9R1A3	Mus musculus 	Secreted (curated)	Netrin-3 
+Q9R1B9	Mus musculus 	Secreted (curated)	Slit homolog 2 protein 
+Q9R1E6	Mus musculus 	Secreted (curated)	Ectonucleotide pyrophosphatase/phosphodiesterase family member 2 
+Q9R1T0	Mus musculus 	Secreted (curated)	Limitin 
+Q9R1V7	Mus musculus 	Secreted (curated)	Disintegrin and metalloproteinase domain-containing protein 23 
+Q9R1Z8	Mus musculus 	Cytoplasm, Cytoskeleton, Secreted (curated)	Vinexin 
+Q9R229	Mus musculus 	Secreted (curated)	Bone morphogenetic protein 10 
+Q9R2C3	Mus musculus 	Secreted (curated)	Growth hormome 
+Q9WTL0	Mus musculus 	Secreted (curated)	Beta-defensin 3 
+Q9WTR0	Mus musculus 	Secreted (curated)	Matrix metalloproteinase-16 
+Q9WTX4	Mus musculus 	Secreted (curated)	Pro-neuregulin-4, membrane-bound isoform 
+Q9WU66	Mus musculus 	Secreted (curated)	Secreted frizzled-related protein 5 
+Q9WU72	Mus musculus 	Secreted (curated)	Tumor necrosis factor ligand superfamily member 13B 
+Q9WUA1	Mus musculus 	Secreted (curated)	Wnt inhibitory factor 1 
+Q9WUD6	Mus musculus 	Secreted (curated)	Protein Wnt-8b 
+Q9WUG6	Mus musculus 	Secreted (curated)	Insulin-like peptide INSL5 
+Q9WUQ5	Mus musculus 	Secreted (curated)	C-X-C motif chemokine 14 
+Q9WUZ9	Mus musculus 	ER, Secreted (curated)	Ectonucleoside triphosphate diphosphohydrolase 5 
+Q9WV56	Mus musculus 	Secreted (curated)	Growth/differentiation factor 2 
+Q9WVA8	Mus musculus 	Secreted (curated)	Pro-FMRFamide-related neuropeptide FF 
+Q9WVB4	Mus musculus 	Secreted (curated)	Slit homolog 3 protein 
+Q9WVC2	Mus musculus 	Secreted (curated)	Ly-6/neurotoxin-like protein 1 
+Q9WVG5	Mus musculus 	Secreted (curated)	Endothelial lipase 
+Q9WVH6	Mus musculus 	Secreted (curated)	Angiopoietin-4 
+Q9WVH9	Mus musculus 	Secreted (curated)	Fibulin-5 
+Q9WVJ3	Mus musculus 	ER, Golgi apparatus, Lysosome, Secreted (curated)	Carboxypeptidase Q 
+Q9WVJ9	Mus musculus 	Secreted (curated)	EGF-containing fibulin-like extracellular matrix protein 2 
+Q9WVL7	Mus musculus 	Secreted (curated)	C-X-C motif chemokine 15 
+Q9WVM6	Mus musculus 	Secreted (curated)	Tolloid-like protein 2 
+Q9Z0E2	Mus musculus 	Secreted (curated)	Chordin 
+Q9Z0F1	Mus musculus 	Cytoplasm, Secreted (curated)	Neuroendocrine secretory protein 55 
+Q9Z0F8	Mus musculus 	Secreted (curated)	Disintegrin and metalloproteinase domain-containing protein 17 
+Q9Z0G4	Mus musculus 	Secreted (curated)	WNT1-inducible-signaling pathway protein 2 
+Q9Z0H6	Mus musculus 	Secreted (curated)	Cystatin-9 
+Q9Z0J0	Mus musculus 	ER, Lysosome, Secreted (curated)	Epididymal secretory protein E1 
+Q9Z0J7	Mus musculus 	Secreted (curated)	Growth/differentiation factor 15 
+Q9Z0K7	Mus musculus 	Secreted (curated)	Secreted Ly-6/uPAR-related protein 1 
+Q9Z0L2	Mus musculus 	Secreted (curated)	Artemin 
+Q9Z0L3	Mus musculus 	Secreted (curated)	Otoconin-90 
+Q9Z0L4	Mus musculus 	Secreted (curated)	Bone morphogenetic protein 15 
+Q9Z0L8	Mus musculus 	Lysosome, Secreted (curated)	Gamma-glutamyl hydrolase 
+Q9Z0M9	Mus musculus 	Secreted (curated)	Interleukin-18-binding protein 
+Q9Z0Y2	Mus musculus 	Secreted (curated)	Phospholipase A2 
+Q9Z100	Mus musculus 	Secreted (curated)	Probable carboxypeptidase X1 
+Q9Z121	Mus musculus 	Secreted (curated)	C-C motif chemokine 8 
+Q9Z126	Mus musculus 	Secreted (curated)	Platelet factor 4 
+Q9Z132	Mus musculus 	Nucleus, Secreted (curated)	R-spondin-1 
+Q9Z175	Mus musculus 	Secreted (curated)	Lysyl oxidase homolog 3 
+Q9Z1L4	Mus musculus 	Secreted (curated)	Retinoschisin 
+Q9Z1N6	Mus musculus 	Secreted (curated)	Secreted frizzled-related sequence protein 4 
+Q9Z1P8	Mus musculus 	Secreted (curated)	Angiopoietin-related protein 4 
+Q9Z1R2	Mus musculus 	Cytoplasm, Nucleus, Secreted (curated)	Large proline-rich protein BAG6 
+Q9Z1R3	Mus musculus 	Secreted (curated)	Apolipoprotein M 
+Q9Z1T2	Mus musculus 	ER, Secreted (curated)	Thrombospondin-4 
+Q9Z1W4	Mus musculus 	Secreted (curated)	Growth/differentiation factor 11 
+Q9Z273	Mus musculus 	Cytoplasm, Secreted (curated)	Tubby-related protein 1 
+Q9Z319	Mus musculus 	Secreted (curated)	Atrial natriuretic peptide-converting enzyme 
