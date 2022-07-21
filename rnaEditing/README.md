@@ -3,7 +3,7 @@
 
 - for RNA editing analysis of individual transcripts, a list mm10_rediportal.txt.gz from REDIportal http://srv00.recas.ba.infn.it/atlas/ needs to be downloaded prior to analysis
 
-### How to re-analyze or replicate data from the manuscript
+### How to re-analyze and replicate data from the manuscript
 
 * Align fastq files from the manuscript and Kanata et al., GEO accession number GSE90977: starAlignRnaEditing.sh
 * Calculate A-to-I editing index (AEI): rnaEditingAei.sh
