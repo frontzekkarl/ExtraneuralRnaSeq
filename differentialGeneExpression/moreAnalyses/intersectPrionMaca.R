@@ -1,8 +1,11 @@
 
-# intersect terminal spleen and muscle changes with 3_vs_27 analysis from tabula muris senis
+# intersect terminal spleen and muscle changes with 3_vs_27 analysis from tabula muris senis, have to be download prior to analysis from AWS:
+# https://registry.opendata.aws/tabula-muris-senis/
 # import q<0.05 results, see above, for spleen and muscle
+
 spleen273 <- read.delim("TabulaMurisSenisSpleen27vs3.csv",sep=",")
 muscle273 <- read.delim("/home/ubuntu/Bulk_RNAseq/TabulaMurisSenisMuscle27vs3.csv",sep=",")
+
 # separate up- and downregulated genes
 
 spleen273_up <- spleen273[spleen273$log2FoldChange>=0.5,]
@@ -152,56 +155,38 @@ sum(mu_term_down$gene_name %in% muscle273_down$gene_symbol) #96
 muscle273_up <- muscle273[muscle273$log2FoldChange>=0.5,]
 muscle273_down <- muscle273[muscle273$log2FoldChange<=-0.5,]
 
-#### blood
-bl273 <- read.delim("/home/ubuntu/Bulk_RNAseq/macabl273.csv",sep=",")
-sum(bl273$gene_symbol %in%  bl_term$gene_name) #0
 
-# muscle senescence
-setwd("/home/ubuntu/Bulk_RNAseq/")
-senes <- read.delim("unique_senescence_genes_murine.csv",sep=",")
-muShared[muShared %in% senes$MGI.symbol]
-mu_term[mu_term$gene_name == "Ets1",]
-## ets1 is downregulated but this would most likely lead to protection against senescence
-### 662      Ets1 0.0001938 0.004318    -0.5633
-## DOI: 10.1126/sciadv.abf2017
+# # shared genes PMID 29382830 vs blood terminal, relevant table from the publication: "blood_9_30_edgeR_extended.csv"
 
 
-senesHu <- read.delim("senescence_genes.csv",sep=";")
+setwd("~/Bulk_RNAseq/Comparisons_NewPipeline/p3506_PeripheralSamples/BloodPlusBatch")
+bl_term_raw <- read.delim("result--RML6_term--over--NBH_term.txt") # blood DEGs from terminally disease mice, same edgeR output as in differentialGeneExpression/analysisBloodMainCohort.R
 
-##GO Muscle term >>>> NOT WORKING <<<<<<<
-# assemble list of shared genes
-setwd("/home/ubuntu/Bulk_RNAseq/Comparisons_NewPipeline/p3506_PeripheralSamples/")
-muTermXprsd <- mu_termAll[mu_termAll$isPresent==T,]
-muscle273 <- data.frame(results_list_MACA_bulk$Limb_Muscle$`27_vs_3`$ressig)
-muShared <- muscle273_up$gene_symbol[muscle273_up$gene_symbol %in% mu_term_up$gene_name]
-muSharedTemp <- muscle273_down$gene_symbol[muscle273_down$gene_symbol %in% mu_term_down$gene_name]
-muShared <- append(muShared,muSharedTemp)
-muTermXprsd <- mu_term$gene_name
-write.csv(muShared,"/home/ubuntu/Bulk_RNAseq/muShared.csv",row.names = F)
-muTermXprsd
-library(org.Mm.eg.db)
-muTermMaca <-           enrichGO(gene          = muShared,
-                         universe      = muTermXprsd,
-                         keyType       = "SYMBOL",
-                         OrgDb         = "org.Mm.eg.db",
-                         ont           = "ALL",
-                         pAdjustMethod = "BH",
-                         pvalueCutoff  = 0.01,
-                         qvalueCutoff  = 0.05,
-                         readable      = FALSE)
-png(filename = 'mu',width=600 ,height = 300)
-barplot(muTermMaca,showCategory = 5,col="p.adjust",font.size=12,border=TRUE,title='Blood, 4 wpi, upregulated \t [x = count]') 
+bl_term_raw <- bl_term_raw[bl_term_raw$isPresent==TRUE,]
+setwd("~/Bulk_RNAseq/Pmid29382830")
+bl_aged <- read.delim("blood_9_30_edgeR_extended.csv",header=F)
+colnames(bl_aged) <- c("geneid",'log2fc','log2cpm','pval','fdr','ensg','geneid2','desc','func','annot')
 
-# export shared muscle genes
-muTermShared <- mu_term[mu_term$gene_name %in% muShared,]
-mu273Shared <- muscle273[muscle273$gene_symbol %in% muShared,]
-mu273SharedSorted <- mu273Shared[sort(mu273Shared$gene_symbol,index.return=T)$ix,]
-muTermSharedSorted <- muTermShared[sort(muTermShared$gene_name,index.return=T)$ix,]
-write.csv(muTermSharedSorted,"/home/ubuntu/Bulk_RNAseq/muTermSharedWith273.Sorted.csv")
-write.csv(mu273SharedSorted,"/home/ubuntu/Bulk_RNAseq/mu273SharedWithTerm.Sorted.csv")
+# test for enrichment
+# only 1 gene shared in same direction
+# total expr term 13964, total expr aged 8175, shared 4474
+# total deg aged_ 560
+# total deg term 16
 
-# export shared spleen genes
-spTermShared <- sp_term[sp_term$gene_name %in% spShared,]
-mu273Shared <- muscle273[muscle273$gene_symbol %in% muShared,]
-mu273SharedSorted <- mu273Shared[sort(mu273Shared$gene_symbol,index.return=T)$ix,]
-muTermSharedSorted <- muTermShared[sort(muTermShared$gene_name,index.return=T)$ix,]
+length(bl_aged$log2fc[(bl_aged$fdr<0.05) & (abs(bl_aged$log2fc)>=0.5)]) # 560
+length(bl_aged$log2fc[(bl_aged$fdr<0.05) & (bl_aged$log2fc>=0.5)]) # 362 up
+
+enrich_pvalue(13964+8175-4474,560,16,1) # 0.422
+
+library(gmp) 
+enrich_pvalue <- function(N, A, B, k)
+{
+  m <- A + k
+  n <- B + k
+  i <- k:min(m,n)
+  
+  as.numeric( sum(chooseZ(m,i)*chooseZ(N-m,n-i))/chooseZ(N,n) )
+}
+
+
+
