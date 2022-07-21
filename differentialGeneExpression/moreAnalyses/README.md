@@ -13,3 +13,7 @@
 ### Gene enrichtment analysis and gene ontology annotation from main cohort blood samples at 4 wpi
 
 - geneEnrichment.R
+
+### Hierarchical clustering of muscle DEGs
+
+- hierarchialClusteringMuscle.R
