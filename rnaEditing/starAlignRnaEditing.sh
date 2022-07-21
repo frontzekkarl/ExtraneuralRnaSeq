@@ -11,12 +11,9 @@ for eachsample in $SAMPLES
 do
 	BASE="${eachsample::-11}"
  	R1=${BASE}R1.fastq.gz
-  R2=${BASE}R2.fastq.gz
-  echo "dis R1: $R1"
+	R2=${BASE}R2.fastq.gz
+  	echo "dis R1: $R1"
 	echo "dis R2: $R2"
-
-for eachsample in $SAMPLES
-do
 
   STAR \
 	--runThreadN 16 \
@@ -38,6 +35,6 @@ do
 	--alignIntronMin 20 \
 	--alignIntronMax 1000000 \
 	--alignMatesGapMax 1000000 \
-  --readFilesIn $R1 $R2 
+  	--readFilesIn $R1 $R2 
 done
 #STAR --genomeLoad Remove # free up memory after alignment
