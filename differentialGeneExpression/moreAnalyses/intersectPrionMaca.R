@@ -88,8 +88,8 @@ enrich_pvalue(14116,311,2445,29) # P 0.99
 sum(mu_term_up$gene_name %in% muscle273_up$gene_symbol) # 39
 sum(mu_term_down$gene_name %in% muscle273_down$gene_symbol) # 88
 
-# total deg tabula muris: 208+461=669
-length(muscle273_up$baseMean) # 208
+# total deg tabula muris: 208+461=741
+length(muscle273_up$baseMean) # 280
 length(muscle273_down$baseMean) # 461
 
 # same as above, read mu_term2 for field #isPresent
@@ -104,4 +104,46 @@ length(mu_term_down$gene_name) # 708
 sum(mu_term_present$gene_name %in% muscle273All$gene_symbol) #12774
 
 
-enrich_pvalue(12774,669,1320,39+88) # P 3.00x10^-5
+enrich_pvalue(12774,669,1320,39+88) # P 0.0012
+
+#####
+#####shared genes Pmid29382830 vs blood terminal
+# read bl_term Fdr and log2 fold adjusted from shared_genes_timecourse.R
+
+setwd("~/Bulk_RNAseq/Comparisons_NewPipeline/p3506_PeripheralSamples/BloodPlusBatch")
+bl_term_raw <- read.delim("result--RML6_term--over--NBH_term.txt")
+
+bl_term_raw <- bl_term_raw[bl_term_raw$isPresent==TRUE,]
+
+setwd("~/Bulk_RNAseq/Pmid29382830")
+bl_aged<- read.delim("blood_9_30_edgeR_extended.csv",header=F)
+# count total expressed genes shared by Pmid29382830 and blood terminal
+
+colnames(bl_aged) <- c("geneid",'log2fc','log2cpm','pval','fdr','ensg','geneid2','desc','func','annot')
+bl_aged <- subset(bl_aged,abs(bl_aged$log2fc)>0)
+sum(bl_term_raw$gene_name %in% bl_aged$geneid) #4475
+
+# select deg at log2fc > 0.5 and fdr <0.05
+bl_aged <- subset(bl_aged,(abs(bl_aged$log2fc)>0.5) & (bl_aged$fdr<0.05), select=c("geneid",'log2fc','pval','fdr'))
+bl_term <- subset(bl_term_raw,(bl_term_raw$fdr<0.05) & (abs(bl_term_raw$log2.Ratio)>0.5),c(3,13,14,21))
+
+bl_term_up <- subset(bl_term,bl_term$log2.Ratio>0.5)
+bl_term_down <- subset(bl_term,bl_term$log2.Ratio<0)
+
+length(bl_term_up$gene_name)#5
+length(bl_term_down$gene_name)#11
+# total deg blood prion 16
+
+bl_aged_up <- subset(bl_aged,bl_aged$log2fc>0.5)
+bl_aged_down <- subset(bl_aged,bl_aged$log2fc<0)
+length(bl_aged_up$geneid) #362
+length(bl_aged_down$geneid) #198
+# total deg blood aged mice 560
+
+# test for enrichment
+# gene expression space 4475
+# total deg aged 560
+# total deg term 16
+# shared 1
+
+enrich_pvalue(4475,560,16,1) # 0.90
