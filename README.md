@@ -7,3 +7,7 @@
 ##### raw and analyzed sequencing data is freely available via the Gene Expression Omnibus www.ncbi.nlm.nih.gov/geo/, GEO Accession # GSE210128
 
 ## Contents of this reposity
+
+- alternative splicing: script to recapitulate differentially used transcripts 
+- differential gene expression: scripts to reproduce DEGs from edgeR outputs, the latter can be downloaded via GEO. Includes all additional codes from the manuscript, except alternative splicing, RNA editing and scripts related to the shiny app
+- RNA editing: scripts to re-calculate A-to-I editing index and individually edited genes from this manuscript and our re-analysis of doi: 10.1073/pnas.1803521116
