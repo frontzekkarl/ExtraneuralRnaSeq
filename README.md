@@ -11,3 +11,6 @@
 - alternative splicing: script to recapitulate differentially used transcripts 
 - differential gene expression: scripts to reproduce DEGs from edgeR outputs, the latter can be downloaded via GEO. Includes all additional codes from the manuscript, except alternative splicing, RNA editing and scripts related to the shiny app
 - RNA editing: scripts to re-calculate A-to-I editing index and individually edited genes from this manuscript and our re-analysis of doi: 10.1073/pnas.1803521116
+
+
+Please raise issues with the repository via the tab above which will benefit others having similar problems.
