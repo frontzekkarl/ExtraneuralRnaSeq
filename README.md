@@ -1,5 +1,6 @@
 # Sustained, transcriptional perturbation in extra-neural organs after intracerebral prion inoculation
-### accompanying code to the manuscript, which was posted on _biorxiv: [doi:link](https://doi.org/10.1101/2023.10.31.564879)_
+### this is legacy accompanying code to the manuscript, which was posted on _biorxiv: [doi:link](https://doi.org/10.1101/2023.10.31.564879)_
+### for most up to date version > https://github.com/marusakod/RML_extraneural_organs
 
 ##### a shiny app for intuitive visualization of gene expression changes can be found here: https://fgcz-c-044.uzh.ch/Prion_database_shiny/
 ###### the github code for the shiny app can be found here: https://github.com/marusakod/Prion_database_shiny
